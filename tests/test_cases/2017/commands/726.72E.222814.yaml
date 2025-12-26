@@ -1,0 +1,5 @@
+command_id: 726.72E.222814
+test_cases:
+- expected_values:
+    F350_TP_FR: 59.15
+  response: 72E05622814049F
