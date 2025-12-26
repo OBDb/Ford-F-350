@@ -1,0 +1,11 @@
+command_id: 726.72E.222813
+test_cases:
+- expected_values:
+    F350_TP_FL: 61.3
+  response: 72E0562281304CA
+- expected_values:
+    F350_TP_FL: 61.55
+  response: 72E0562281304CF
+- expected_values:
+    F350_TP_FL: 61.8
+  response: 72E0562281304D4
