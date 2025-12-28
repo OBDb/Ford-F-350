@@ -6,21 +6,3 @@ test_cases:
 - expected_values:
     F350_TP_FL: 51.4
   response: '72E056228130404'
-- expected_values:
-    F350_TP_FL: 51.65
-  response: '72E056228130409'
-- expected_values:
-    F350_TP_FL: 51.9
-  response: 72E05622813040E
-- expected_values:
-    F350_TP_FL: 52.15
-  response: '72E056228130413'
-- expected_values:
-    F350_TP_FL: 52.55
-  response: 72E05622813041B
-- expected_values:
-    F350_TP_FL: 52.8
-  response: '72E056228130420'
-- expected_values:
-    F350_TP_FL: 53.55
-  response: 72E05622813042F

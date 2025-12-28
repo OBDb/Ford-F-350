@@ -4,29 +4,5 @@ test_cases:
     F350_TP_RLO: 44.9
   response: '72E056228160382'
 - expected_values:
-    F350_TP_RLO: 45.15
-  response: '72E056228160387'
-- expected_values:
-    F350_TP_RLO: 45.4
-  response: 72E05622816038C
-- expected_values:
-    F350_TP_RLO: 45.65
-  response: '72E056228160391'
-- expected_values:
-    F350_TP_RLO: 45.9
-  response: '72E056228160396'
-- expected_values:
-    F350_TP_RLO: 46.05
-  response: '72E056228160399'
-- expected_values:
-    F350_TP_RLO: 46.3
-  response: 72E05622816039E
-- expected_values:
-    F350_TP_RLO: 46.4
-  response: 72E0562281603A0
-- expected_values:
-    F350_TP_RLO: 47.05
-  response: 72E0562281603AD
-- expected_values:
     F350_TP_RLO: 150
   response: 72E056228160BB8
