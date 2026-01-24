@@ -1,5 +1,8 @@
 command_id: 726.72E.222813
 test_cases:
 - expected_values:
+    F350_TP_FL: 60.4
+  response: 72E0562281304B8
+- expected_values:
     F350_TP_FL: 67.9
   response: 72E05622813054E

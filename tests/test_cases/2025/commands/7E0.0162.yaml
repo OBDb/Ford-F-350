@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     TQ_ACT: 3
   response: '7E803416280'
+- expected_values:
+    TQ_ACT: 6
+  response: '7E803416283'
