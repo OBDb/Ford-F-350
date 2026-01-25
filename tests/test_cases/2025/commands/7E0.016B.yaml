@@ -57,6 +57,34 @@ test_cases:
     EGRTD_WR_SUP: 0
   response: 7E807416B3023180000
 - expected_values:
+    EGRTA: 1
+    EGRTA_SUP: 0
+    EGRTA_WR_SUP: 1
+    EGRTB: -40
+    EGRTB_SUP: 0
+    EGRTB_WR_SUP: 0
+    EGRTC: -1
+    EGRTC_SUP: 0
+    EGRTC_WR_SUP: 1
+    EGRTD: -40
+    EGRTD_SUP: 0
+    EGRTD_WR_SUP: 0
+  response: 7E807416B3029270000
+- expected_values:
+    EGRTA: 11
+    EGRTA_SUP: 0
+    EGRTA_WR_SUP: 1
+    EGRTB: -40
+    EGRTB_SUP: 0
+    EGRTB_WR_SUP: 0
+    EGRTC: 0
+    EGRTC_SUP: 0
+    EGRTC_WR_SUP: 1
+    EGRTD: -40
+    EGRTD_SUP: 0
+    EGRTD_WR_SUP: 0
+  response: 7E807416B3033280000
+- expected_values:
     EGRTA: 16
     EGRTA_SUP: 0
     EGRTA_WR_SUP: 1

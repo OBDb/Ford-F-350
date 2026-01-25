@@ -2,9 +2,9 @@ command_id: 7E0.0170
 test_cases:
 - expected_values:
     BP_A: BP_A_OL
-    BP_A_ACT: 97.875
+    BP_A_ACT: 81.375
     BP_A_ACT_SUP: 1
-    BP_A_CMD: 100.1875
+    BP_A_CMD: 100
     BP_A_CMD_SUP: 1
     BP_A_SUP: 1
     BP_B: BP_B_OL
@@ -14,8 +14,8 @@ test_cases:
     BP_B_CMD_SUP: 0
     BP_B_SUP: 0
   response: |-
-    7E8100C4170070C860C
-    7E8213C0000000005CC
+    7E8100C4170070C800A
+    7E8212C0000000005CC
 - expected_values:
     BP_A: BP_A_OL
     BP_A_ACT: 103.5
@@ -50,9 +50,9 @@ test_cases:
     7E821030000000005CC
 - expected_values:
     BP_A: BP_A_CL
-    BP_A_ACT: 111.6875
+    BP_A_ACT: 114.28125
     BP_A_ACT_SUP: 1
-    BP_A_CMD: 104.6875
+    BP_A_CMD: 102.5
     BP_A_CMD_SUP: 1
     BP_A_SUP: 1
     BP_B: BP_B_CL
@@ -62,24 +62,24 @@ test_cases:
     BP_B_CMD_SUP: 0
     BP_B_SUP: 0
   response: |-
-    7E8100C4170070D160D
-    7E821F6000000000ACC
+    7E8100C4170070CD00E
+    7E82149000000000ACC
 - expected_values:
-    BP_A: BP_A_CL
-    BP_A_ACT: 113.5
+    BP_A: BP_A_OL
+    BP_A_ACT: 122.78125
     BP_A_ACT_SUP: 1
-    BP_A_CMD: 111.78125
+    BP_A_CMD: 103.78125
     BP_A_CMD_SUP: 1
     BP_A_SUP: 1
-    BP_B: BP_B_CL
+    BP_B: BP_B_OL
     BP_B_ACT: 0
     BP_B_ACT_SUP: 0
     BP_B_CMD: 0
     BP_B_CMD_SUP: 0
     BP_B_SUP: 0
   response: |-
-    7E8100C4170070DF90E
-    7E82130000000000ACC
+    7E8100C4170070CF90F
+    7E821590000000005CC
 - expected_values:
     BP_A: BP_A_CL
     BP_A_ACT: 107.6875
@@ -98,9 +98,9 @@ test_cases:
     7E821760000000006CC
 - expected_values:
     BP_A: BP_A_CL
-    BP_A_ACT: 152.5
+    BP_A_ACT: 171.59375
     BP_A_ACT_SUP: 1
-    BP_A_CMD: 150.78125
+    BP_A_CMD: 163.59375
     BP_A_CMD_SUP: 1
     BP_A_SUP: 1
     BP_B: BP_B_CL
@@ -110,13 +110,13 @@ test_cases:
     BP_B_CMD_SUP: 0
     BP_B_SUP: 0
   response: |-
-    7E8100C41700712D913
-    7E82110000000000ACC
+    7E8100C417007147315
+    7E82173000000000ACC
 - expected_values:
     BP_A: BP_A_CL
-    BP_A_ACT: 152.78125
+    BP_A_ACT: 170.375
     BP_A_ACT_SUP: 1
-    BP_A_CMD: 152
+    BP_A_CMD: 182.78125
     BP_A_CMD_SUP: 1
     BP_A_SUP: 1
     BP_B: BP_B_CL
@@ -126,5 +126,5 @@ test_cases:
     BP_B_CMD_SUP: 0
     BP_B_SUP: 0
   response: |-
-    7E8100C417007130013
-    7E82119000000000ACC
+    7E8100C41700716D915
+    7E8214C000000000ACC
