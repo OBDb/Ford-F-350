@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Ford_Super_Duty"
+
 generations:
   - name: "F-Series Super Duty First Generation"
     start_year: 1999
