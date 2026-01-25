@@ -18,3 +18,9 @@ test_cases:
 - expected_values:
     CYL_RATE: 9.25
   response: 7E80441A20128
+- expected_values:
+    CYL_RATE: 10.6875
+  response: 7E80441A20156
+- expected_values:
+    CYL_RATE: 11
+  response: 7E80441A20160
