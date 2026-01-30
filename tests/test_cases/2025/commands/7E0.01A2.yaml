@@ -1,6 +1,9 @@
 command_id: 7E0.01A2
 test_cases:
 - expected_values:
+    CYL_RATE: 5.90625
+  response: 7E80441A200BD
+- expected_values:
     CYL_RATE: 8.6875
   response: 7E80441A20116
 - expected_values:
