@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     FUEL_TIMING: -210
   response: 7E804415D6651
+- expected_values:
+    FUEL_TIMING: -210
+  response: 7E804415D6700
