@@ -7,23 +7,8 @@ test_cases:
     CYL_RATE: 8.6875
   response: 7E80441A20116
 - expected_values:
-    CYL_RATE: 8.71875
-  response: 7E80441A20117
+    CYL_RATE: 31.875
+  response: 7E80441A203FC
 - expected_values:
-    CYL_RATE: 8.75
-  response: 7E80441A20118
-- expected_values:
-    CYL_RATE: 9
-  response: 7E80441A20120
-- expected_values:
-    CYL_RATE: 9.09375
-  response: 7E80441A20123
-- expected_values:
-    CYL_RATE: 9.25
-  response: 7E80441A20128
-- expected_values:
-    CYL_RATE: 10.6875
-  response: 7E80441A20156
-- expected_values:
-    CYL_RATE: 11
-  response: 7E80441A20160
+    CYL_RATE: 33.4375
+  response: 7E80441A2042E
