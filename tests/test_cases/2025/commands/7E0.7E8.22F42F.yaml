@@ -4,5 +4,5 @@ test_cases:
     F350_FLI: 47.05882
   response: 7E80462F42F78
 - expected_values:
-    F350_FLI: 77.2549
-  response: 7E80462F42FC5
+    F350_FLI: 100
+  response: 7E80462F42FFF
