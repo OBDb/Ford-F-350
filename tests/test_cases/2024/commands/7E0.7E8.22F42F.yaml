@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22F42F
+test_cases:
+- expected_values:
+    F350_FLI: 61.96078
+  response: 7E80462F42F9E
+- expected_values:
+    F350_FLI: 62.35294
+  response: 7E80462F42F9F
+- expected_values:
+    F350_FLI: 62.7451
+  response: 7E80462F42FA0
+- expected_values:
+    F350_FLI: 63.13725
+  response: 7E80462F42FA1
+- expected_values:
+    F350_FLI: 63.52941
+  response: 7E80462F42FA2
+- expected_values:
+    F350_FLI: 63.92157
+  response: 7E80462F42FA3
+- expected_values:
+    F350_FLI: 64.31373
+  response: 7E80462F42FA4
