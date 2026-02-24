@@ -4,5 +4,5 @@ test_cases:
     F350_TP_FL: 56.3
   response: '72E056228130466'
 - expected_values:
-    F350_TP_FL: 61.45
-  response: 72E0562281304CD
+    F350_TP_FL: 61.6
+  response: 72E0562281304D0
