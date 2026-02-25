@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F42F
 test_cases:
 - expected_values:
-    F350_FLI: 56.86275
-  response: 7E80462F42F91
+    F350_FLI: 52.94118
+  response: 7E80462F42F87
 - expected_values:
     F350_FLI: 64.31373
   response: 7E80462F42FA4
