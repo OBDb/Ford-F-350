@@ -4,5 +4,5 @@ test_cases:
     F350_TP_RLO: 66.95
   response: 72E05622816053B
 - expected_values:
-    F350_TP_RLO: 71.85
-  response: 72E05622816059D
+    F350_TP_RLO: 73.35
+  response: 72E0562281605BB
