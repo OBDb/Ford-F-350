@@ -1,8 +1,11 @@
 command_id: 726.72E.222816
 test_cases:
 - expected_values:
+    F350_TP_RLO: 62.95
+  response: 72E0562281604EB
+- expected_values:
+    F350_TP_RLO: 63.95
+  response: 72E0562281604FF
+- expected_values:
     F350_TP_RLO: 66.1
   response: 72E05622816052A
-- expected_values:
-    F350_TP_RLO: 73.35
-  response: 72E0562281605BB
