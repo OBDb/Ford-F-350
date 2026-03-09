@@ -1,0 +1,13 @@
+command_id: 7E0.017F
+test_cases:
+- expected_values:
+    IDLE_TIME: 669768
+    IDLE_TIME_SUP: 1
+    PTO_TIME: 0
+    PTO_TIME_SUP: 1
+    RUN_TIME: 3121701
+    RUN_TIME_SUP: 1
+  response: |-
+    7E8100F417F07002FA2
+    7E82125000A38480000
+    7E8220000CCCCCCCCCC
