@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     F350_TP_RRO: 69.35
   response: 72E05622815056B
+- expected_values:
+    F350_TP_RRO: 74.1
+  response: 72E0562281505CA
+- expected_values:
+    F350_TP_RRO: 74.35
+  response: 72E0562281505CF
