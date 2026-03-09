@@ -1,0 +1,32 @@
+command_id: 7DF.221E1C
+test_cases:
+- expected_values:
+    F350_TOT: 26.9375
+  response: 7E905621E1C01AF
+- expected_values:
+    F350_TOT: 27.3125
+  response: 7E905621E1C01B5
+- expected_values:
+    F350_TOT: 27.625
+  response: 7E905621E1C01BA
+- expected_values:
+    F350_TOT: 28
+  response: 7E905621E1C01C0
+- expected_values:
+    F350_TOT: 28.3125
+  response: 7E905621E1C01C5
+- expected_values:
+    F350_TOT: 28.375
+  response: 7E905621E1C01C6
+- expected_values:
+    F350_TOT: 28.6875
+  response: 7E905621E1C01CB
+- expected_values:
+    F350_TOT: 29.1875
+  response: 7E905621E1C01D3
+- expected_values:
+    F350_TOT: 29.5
+  response: 7E905621E1C01D8
+- expected_values:
+    F350_TOT: 29.625
+  response: 7E905621E1C01DA
