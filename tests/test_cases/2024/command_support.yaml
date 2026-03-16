@@ -90,6 +90,7 @@ supported_commands_by_ecu:
   - 7E1.7E9.0104
   - 7E1.7E9.0105
   - 7E1.7E9.010D
+  - 7E1.7E9.010F
   - 7E1.7E9.0131
   - 7E1.7E9.0142
 unsupported_commands_by_ecu:
@@ -99,5 +100,3 @@ unsupported_commands_by_ecu:
   - 760.768.223201:F350_STEER_ANGLE
   "7E0":
   - 7E0.7E8.221E23:F350_GEAR_SHFT
-  "7E1":
-  - 7E1.7E9.010F

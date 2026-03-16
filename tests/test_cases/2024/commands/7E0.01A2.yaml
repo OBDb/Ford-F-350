@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CYL_RATE: 0
   response: 7E80441A20000
+- expected_values:
+    CYL_RATE: 7.53125
+  response: 7E80441A200F1
