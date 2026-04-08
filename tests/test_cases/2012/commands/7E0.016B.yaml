@@ -1,0 +1,86 @@
+command_id: 7E0.016B
+test_cases:
+- expected_values:
+    EGRTA: 104
+    EGRTA_SUP: 1
+    EGRTA_WR_SUP: 0
+    EGRTB: -40
+    EGRTB_SUP: 0
+    EGRTB_WR_SUP: 0
+    EGRTC: 54
+    EGRTC_SUP: 1
+    EGRTC_WR_SUP: 0
+    EGRTD: -40
+    EGRTD_SUP: 0
+    EGRTD_WR_SUP: 0
+  response: 7E807416B03905E0000
+- expected_values:
+    EGRTA: 104
+    EGRTA_SUP: 1
+    EGRTA_WR_SUP: 0
+    EGRTB: -40
+    EGRTB_SUP: 0
+    EGRTB_WR_SUP: 0
+    EGRTC: 56
+    EGRTC_SUP: 1
+    EGRTC_WR_SUP: 0
+    EGRTD: -40
+    EGRTD_SUP: 0
+    EGRTD_WR_SUP: 0
+  response: 7E807416B0390600000
+- expected_values:
+    EGRTA: 104
+    EGRTA_SUP: 1
+    EGRTA_WR_SUP: 0
+    EGRTB: -40
+    EGRTB_SUP: 0
+    EGRTB_WR_SUP: 0
+    EGRTC: 57
+    EGRTC_SUP: 1
+    EGRTC_WR_SUP: 0
+    EGRTD: -40
+    EGRTD_SUP: 0
+    EGRTD_WR_SUP: 0
+  response: 7E807416B0390610000
+- expected_values:
+    EGRTA: 104
+    EGRTA_SUP: 1
+    EGRTA_WR_SUP: 0
+    EGRTB: -40
+    EGRTB_SUP: 0
+    EGRTB_WR_SUP: 0
+    EGRTC: 58
+    EGRTC_SUP: 1
+    EGRTC_WR_SUP: 0
+    EGRTD: -40
+    EGRTD_SUP: 0
+    EGRTD_WR_SUP: 0
+  response: 7E807416B0390620000
+- expected_values:
+    EGRTA: 107
+    EGRTA_SUP: 1
+    EGRTA_WR_SUP: 0
+    EGRTB: -40
+    EGRTB_SUP: 0
+    EGRTB_WR_SUP: 0
+    EGRTC: 56
+    EGRTC_SUP: 1
+    EGRTC_WR_SUP: 0
+    EGRTD: -40
+    EGRTD_SUP: 0
+    EGRTD_WR_SUP: 0
+  response: 7E807416B0393600000
+- expected_values:
+    EGRTA: 107
+    EGRTA_SUP: 1
+    EGRTA_WR_SUP: 0
+    EGRTB: -40
+    EGRTB_SUP: 0
+    EGRTB_WR_SUP: 0
+    EGRTC: 57
+    EGRTC_SUP: 1
+    EGRTC_WR_SUP: 0
+    EGRTD: -40
+    EGRTD_SUP: 0
+    EGRTD_WR_SUP: 0
+  response: 7E807416B0393610000
