@@ -4,5 +4,8 @@ test_cases:
     F350_CC_TGT_VSS: 0
   response: 76C0562A2240000
 - expected_values:
+    F350_CC_TGT_VSS: -10.8
+  response: 76C0562A224FFE2
+- expected_values:
     F350_CC_TGT_VSS: -3.6
   response: 76C0562A224FFF6
