@@ -4,8 +4,8 @@ test_cases:
     CYL_RATE: 5.90625
   response: 7E80441A200BD
 - expected_values:
-    CYL_RATE: 8.6875
-  response: 7E80441A20116
+    CYL_RATE: 24.3125
+  response: 7E80441A2030A
 - expected_values:
     CYL_RATE: 31.875
   response: 7E80441A203FC
