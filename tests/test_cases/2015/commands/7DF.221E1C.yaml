@@ -1,0 +1,14 @@
+command_id: 7DF.221E1C
+test_cases:
+- expected_values:
+    F350_TOT: 16.125
+  response: 7E905621E1C0102
+- expected_values:
+    F350_TOT: 16.3125
+  response: 7E905621E1C0105
+- expected_values:
+    F350_TOT: 17.25
+  response: 7E905621E1C0114
+- expected_values:
+    F350_TOT: 17.3125
+  response: 7E905621E1C0115
