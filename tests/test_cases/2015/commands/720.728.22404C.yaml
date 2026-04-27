@@ -1,0 +1,8 @@
+command_id: 720.728.22404C
+test_cases:
+- expected_values:
+    F350_ODO: 188932.8
+  response: 7280662404C1CD430
+- expected_values:
+    F350_ODO: 188932.9
+  response: 7280662404C1CD431
