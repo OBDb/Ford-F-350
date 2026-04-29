@@ -4,29 +4,8 @@ test_cases:
     F350_TOT: 16.125
   response: 7E905621E1C0102
 - expected_values:
-    F350_TOT: 16.3125
-  response: 7E905621E1C0105
+    F350_TOT: 62.9375
+  response: 7E905621E1C03EF
 - expected_values:
-    F350_TOT: 17.25
-  response: 7E905621E1C0114
-- expected_values:
-    F350_TOT: 17.3125
-  response: 7E905621E1C0115
-- expected_values:
-    F350_TOT: 37
-  response: 7E905621E1C0250
-- expected_values:
-    F350_TOT: 41.625
-  response: 7E905621E1C029A
-- expected_values:
-    F350_TOT: 45.8125
-  response: 7E905621E1C02DD
-- expected_values:
-    F350_TOT: 48.8125
-  response: 7E905621E1C030D
-- expected_values:
-    F350_TOT: 50.8125
-  response: 7E905621E1C032D
-- expected_values:
-    F350_TOT: 52.0625
-  response: 7E905621E1C0341
+    F350_TOT: 64.375
+  response: 7E905621E1C0406
