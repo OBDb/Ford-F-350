@@ -27,7 +27,7 @@
   "signals": [
     {"id": "F350_TP_RLI", "path": "Tires", "fmt": { "len": 16, "max": 3276, "div": 20, "unit": "psi" }, "name": "Rear left inner tire pressure"}
   ]},
-{ "hdr": "760", "rax": "768", "dbg": true, "cmd": {"22": "3201"}, "freq": 0.25,
+{ "hdr": "760", "rax": "768", "cmd": {"22": "3201"}, "freq": 0.25, "dbgfilter": { "to": 2011, "from": 2013 },
   "signals": [
     {"id": "F350_STEER_ANGLE", "path": "Control", "fmt": { "len": 16, "max": 1638, "min": -1638, "div": 20, "add": -1638.4, "unit": "degrees" }, "name": "Steering wheel angle (ABS)", "description": "Positive is rotated to the left, negative is rotated to the right."}
   ]},

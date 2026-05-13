@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     F350_ODO: 242130.2
   response: 7280662404C24F236
+- expected_values:
+    F350_ODO: 466092.7
+  response: 7280662404C471EBF
+- expected_values:
+    F350_ODO: 466093.6
+  response: 7280662404C471EC8
