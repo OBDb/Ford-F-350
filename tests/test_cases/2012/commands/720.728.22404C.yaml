@@ -7,5 +7,8 @@ test_cases:
     F350_ODO: 466092.7
   response: 7280662404C471EBF
 - expected_values:
-    F350_ODO: 466093.6
-  response: 7280662404C471EC8
+    F350_ODO: 466099.2
+  response: 7280662404C471F00
+- expected_values:
+    F350_ODO: 466175.9
+  response: 7280662404C4721FF
