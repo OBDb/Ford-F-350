@@ -1,0 +1,11 @@
+command_id: 764.22A224
+test_cases:
+- expected_values:
+    F350_CC_TGT_VSS: 3.6
+  response: 76C0562A224000A
+- expected_values:
+    F350_CC_TGT_VSS: -79.2
+  response: 76C0562A224FF24
+- expected_values:
+    F350_CC_TGT_VSS: -7.2
+  response: 76C0562A224FFEC
