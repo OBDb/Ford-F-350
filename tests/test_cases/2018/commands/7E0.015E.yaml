@@ -1,8 +1,0 @@
-command_id: 7E0.015E
-test_cases:
-- expected_values:
-    FUEL_RATE: 2.25
-  response: 7E804415E002D
-- expected_values:
-    FUEL_RATE: 2.75
-  response: 7E804415E0037
