@@ -1,0 +1,38 @@
+command_id: 7E0.0166
+test_cases:
+- expected_values:
+    MAFA: 30.125
+    MAFA_SUP: 1
+    MAFB: 0
+    MAFB_SUP: 0
+  response: 7E80741660103C40000
+- expected_values:
+    MAFA: 30.15625
+    MAFA_SUP: 1
+    MAFB: 0
+    MAFB_SUP: 0
+  response: 7E80741660103C50000
+- expected_values:
+    MAFA: 30.1875
+    MAFA_SUP: 1
+    MAFB: 0
+    MAFB_SUP: 0
+  response: 7E80741660103C60000
+- expected_values:
+    MAFA: 30.3125
+    MAFA_SUP: 1
+    MAFB: 0
+    MAFB_SUP: 0
+  response: 7E80741660103CA0000
+- expected_values:
+    MAFA: 30.46875
+    MAFA_SUP: 1
+    MAFB: 0
+    MAFB_SUP: 0
+  response: 7E80741660103CF0000
+- expected_values:
+    MAFA: 30.53125
+    MAFA_SUP: 1
+    MAFB: 0
+    MAFB_SUP: 0
+  response: 7E80741660103D10000
