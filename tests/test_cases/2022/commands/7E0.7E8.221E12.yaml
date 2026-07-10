@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221E12
+test_cases:
+- expected_values:
+    F350_GEAR: '10'
+  response: 7E804621E120A
