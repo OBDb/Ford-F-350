@@ -1,4 +1,7 @@
-{ "commands": [
+{ "ecu": [
+    { "hdr": "7E0", "type": "engine" }
+  ],
+  "commands": [
 { "hdr": "720", "rax": "728", "cmd": {"22": "404C"}, "freq": 5, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2016, 2017, 2018, 2019, 2020, 2021], "from": 2023 },
   "signals": [
     {"id": "F350_ODO", "path": "Trips", "fmt": { "len": 24, "max": 1677721, "div": 10, "unit": "kilometers" }, "name": "Odometer (Instrument panel)", "suggestedMetric": "odometer"}
