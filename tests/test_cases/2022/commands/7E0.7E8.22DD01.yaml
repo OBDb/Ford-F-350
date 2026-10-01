@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22DD01
+test_cases:
+- expected_values:
+    F350_ODO_7E0: 67674
+  response: 7E80662DD0101085A

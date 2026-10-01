@@ -1,0 +1,5 @@
+command_id: 7DF.22F45C
+test_cases:
+- expected_values:
+    F350_EOT_7DF: 90
+  response: 7E80462F45C82
