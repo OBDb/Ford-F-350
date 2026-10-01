@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22032B
+test_cases:
+- expected_values:
+    F350_ACC_POS: 13
+  response: 7E80462032B1A

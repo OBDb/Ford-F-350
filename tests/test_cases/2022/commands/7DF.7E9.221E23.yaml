@@ -1,0 +1,5 @@
+command_id: 7DF.7E9.221E23
+test_cases:
+- expected_values:
+    F350_GEAR_SHFT_V2: 103
+  response: 7E904621E2367
