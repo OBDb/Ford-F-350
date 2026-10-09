@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.224194
+test_cases:
+- expected_values:
+    F350_DTE: 737
+  response: 7E8056241941CCA
+- expected_values:
+    F350_DTE: 742.2
+  response: 7E8056241941CFE
+- expected_values:
+    F350_DTE: 743.7
+  response: 7E8056241941D0D

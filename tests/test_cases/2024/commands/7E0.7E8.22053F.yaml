@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22053F
+test_cases:
+- expected_values:
+    F350_TIME_SINCE_OIL: 224.99428
+  response: 7E80562053F3999

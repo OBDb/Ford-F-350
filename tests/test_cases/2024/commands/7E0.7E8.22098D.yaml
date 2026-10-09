@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22098D
+test_cases:
+- expected_values:
+    F350_CYL_4_FUEL_BALANCE: 0
+  response: 7E80762098D00000000
+- expected_values:
+    F350_CYL_4_FUEL_BALANCE: 0.03584
+  response: 7E80762098D000011EB
+- expected_values:
+    F350_CYL_4_FUEL_BALANCE: -0.61952
+  response: 7E80762098DFFFECA3D
+- expected_values:
+    F350_CYL_4_FUEL_BALANCE: -0.41984
+  response: 7E80762098DFFFF2E14
+- expected_values:
+    F350_CYL_4_FUEL_BALANCE: -0.00512
+  response: 7E80762098DFFFFFD70

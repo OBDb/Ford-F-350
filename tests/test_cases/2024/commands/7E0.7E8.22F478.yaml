@@ -1,0 +1,77 @@
+command_id: 7E0.7E8.22F478
+test_cases:
+- expected_values:
+    F350_EGT_B1: 344.9
+  response: |-
+    7E8100C62F4780F0960
+    7E82109300B1609E4CC
+- expected_values:
+    F350_EGT_B1: 344.9
+  response: |-
+    7E8100C62F4780F09BA
+    7E82109760AFF08A4CC
+- expected_values:
+    F350_EGT_B1: 344.9
+  response: |-
+    7E8100C62F4780F09CB
+    7E821090E09120889CC
+- expected_values:
+    F350_EGT_B1: 344.9
+  response: |-
+    7E8100C62F4780F09FF
+    7E82109B20A9E08F7CC
+- expected_values:
+    F350_EGT_B1: 345
+  response: |-
+    7E8100C62F4780F0A19
+    7E82109C20A6C08AECC
+- expected_values:
+    F350_EGT_B1: 345
+  response: |-
+    7E8100C62F4780F0A3C
+    7E82108BE096C086BCC
+- expected_values:
+    F350_EGT_B1: 345.1
+  response: |-
+    7E8100C62F4780F0B04
+    7E8210947093A085ECC
+- expected_values:
+    F350_EGT_B1: 345.1
+  response: |-
+    7E8100C62F4780F0BEE
+    7E8210AEE0C000659CC
+- expected_values:
+    F350_EGT_B1: 345.3
+  response: |-
+    7E8100C62F4780F0D4D
+    7E8210A9B09F109D0CC
+- expected_values:
+    F350_EGT_B1: 345.3
+  response: |-
+    7E8100C62F4780F0D96
+    7E8210B4F0C0308C2CC
+- expected_values:
+    F350_EGT_B1: 345.4
+  response: |-
+    7E8100C62F4780F0E58
+    7E8210B8E0C320447CC
+- expected_values:
+    F350_EGT_B1: 345.6
+  response: |-
+    7E8100C62F4780F1013
+    7E8210CE20D0E09CCCC
+- expected_values:
+    F350_EGT_B1: 345.6
+  response: |-
+    7E8100C62F4780F1037
+    7E8210C960BC70A70CC
+- expected_values:
+    F350_EGT_B1: 345.8
+  response: |-
+    7E8100C62F4780F1251
+    7E8210D540CEC0972CC
+- expected_values:
+    F350_EGT_B1: 345.9
+  response: |-
+    7E8100C62F4780F131E
+    7E8210CF00B5207C4CC
