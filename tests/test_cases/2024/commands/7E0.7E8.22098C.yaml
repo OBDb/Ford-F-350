@@ -7,8 +7,8 @@ test_cases:
     F350_CYL_3_FUEL_BALANCE: 0.12799
   response: 7E80762098C00003FFF
 - expected_values:
-    F350_CYL_3_FUEL_BALANCE: 0.48127
-  response: 7E80762098C0000F0A3
-- expected_values:
     F350_CYL_3_FUEL_BALANCE: -0.14848
   response: 7E80762098CFFFFB5C2
+- expected_values:
+    F350_CYL_3_FUEL_BALANCE: -0.02048
+  response: 7E80762098CFFFFF5C2

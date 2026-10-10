@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.224195
 test_cases:
 - expected_values:
+    F350_DTE_DISP: 702.9
+  response: 7E8056241951B75
+- expected_values:
+    F350_DTE_DISP: 716.8
+  response: 7E8056241951C00
+- expected_values:
     F350_DTE_DISP: 742.3
   response: 7E8056241951CFF
 - expected_values:

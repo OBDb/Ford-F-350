@@ -1,23 +1,8 @@
 command_id: 7E0.7E8.22051C
 test_cases:
 - expected_values:
-    F350_CHG_AIR_T: 27
-  response: 7E80462051C43
+    F350_CHG_AIR_T: 19
+  response: 7E80462051C3B
 - expected_values:
-    F350_CHG_AIR_T: 28
-  response: 7E80462051C44
-- expected_values:
-    F350_CHG_AIR_T: 29
-  response: 7E80462051C45
-- expected_values:
-    F350_CHG_AIR_T: 30
-  response: 7E80462051C46
-- expected_values:
-    F350_CHG_AIR_T: 31
-  response: 7E80462051C47
-- expected_values:
-    F350_CHG_AIR_T: 32
-  response: 7E80462051C48
-- expected_values:
-    F350_CHG_AIR_T: 33
-  response: 7E80462051C49
+    F350_CHG_AIR_T: 48
+  response: 7E80462051C58

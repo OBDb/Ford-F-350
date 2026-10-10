@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2203F5
 test_cases:
 - expected_values:
-    F350_EXH_GAS_T_2: 180
-  response: 7E8046203F524
+    F350_EXH_GAS_T_2: 50
+  response: 7E8046203F50A
 - expected_values:
     F350_EXH_GAS_T_2: 295
   response: 7E8046203F53B

@@ -1,8 +1,8 @@
 command_id: 7DF.22F45C
 test_cases:
 - expected_values:
-    F350_EOT_7DF: 29
-  response: 7E80462F45C45
+    F350_EOT_7DF: 21
+  response: 7E80462F45C3D
 - expected_values:
-    F350_EOT_7DF: 86
-  response: 7E80462F45C7E
+    F350_EOT_7DF: 89
+  response: 7E80462F45C81

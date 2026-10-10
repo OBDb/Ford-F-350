@@ -4,11 +4,11 @@ test_cases:
     F350_CYL_7_FUEL_QTY: 0
   response: 7E8076204B000000000
 - expected_values:
-    F350_CYL_7_FUEL_QTY: 9.71776
-  response: 7E8076204B00012FAE1
+    F350_CYL_7_FUEL_QTY: 13.05599
+  response: 7E8076204B000197FFF
 - expected_values:
-    F350_CYL_7_FUEL_QTY: 15.61599
-  response: 7E8076204B0001E7FFF
+    F350_CYL_7_FUEL_QTY: 27.64799
+  response: 7E8076204B00035FFFF
 - expected_values:
     F350_CYL_7_FUEL_QTY: 54.63039
   response: 7E8076204B0006AB332

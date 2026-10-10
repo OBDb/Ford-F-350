@@ -4,29 +4,5 @@ test_cases:
     F350_TRANS_ODO: 49982
   response: 7E90662DD0100C33E
 - expected_values:
-    F350_TRANS_ODO: 49983
-  response: 7E90662DD0100C33F
-- expected_values:
-    F350_TRANS_ODO: 49985
-  response: 7E90662DD0100C341
-- expected_values:
-    F350_TRANS_ODO: 49987
-  response: 7E90662DD0100C343
-- expected_values:
-    F350_TRANS_ODO: 49989
-  response: 7E90662DD0100C345
-- expected_values:
-    F350_TRANS_ODO: 49991
-  response: 7E90662DD0100C347
-- expected_values:
-    F350_TRANS_ODO: 49993
-  response: 7E90662DD0100C349
-- expected_values:
-    F350_TRANS_ODO: 49994
-  response: 7E90662DD0100C34A
-- expected_values:
-    F350_TRANS_ODO: 49995
-  response: 7E90662DD0100C34B
-- expected_values:
-    F350_TRANS_ODO: 49996
-  response: 7E90662DD0100C34C
+    F350_TRANS_ODO: 50038
+  response: 7E90662DD0100C376

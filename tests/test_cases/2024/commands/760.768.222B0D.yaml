@@ -4,20 +4,5 @@ test_cases:
     F350_BRK_FL_P: 0
   response: 76805622B0D0000
 - expected_values:
-    F350_BRK_FL_P: 6
-  response: 76805622B0D0006
-- expected_values:
-    F350_BRK_FL_P: 18
-  response: 76805622B0D0012
-- expected_values:
-    F350_BRK_FL_P: 25
-  response: 76805622B0D0019
-- expected_values:
-    F350_BRK_FL_P: 38
-  response: 76805622B0D0026
-- expected_values:
-    F350_BRK_FL_P: 39
-  response: 76805622B0D0027
-- expected_values:
-    F350_BRK_FL_P: 49
-  response: 76805622B0D0031
+    F350_BRK_FL_P: 53
+  response: 76805622B0D0035

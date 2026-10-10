@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     F350_DPF_SOOT_LOAD: 8
   response: '7E8056205790008'
+- expected_values:
+    F350_DPF_SOOT_LOAD: 9
+  response: '7E8056205790009'
+- expected_values:
+    F350_DPF_SOOT_LOAD: 10
+  response: 7E805620579000A

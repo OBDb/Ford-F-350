@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     F350_PCM_VEH_ODO: 49996.6
   response: 7E80762F4A60007A0FE
+- expected_values:
+    F350_PCM_VEH_ODO: 50022.7
+  response: 7E80762F4A60007A203

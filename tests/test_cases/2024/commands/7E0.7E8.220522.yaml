@@ -1,32 +1,8 @@
 command_id: 7E0.7E8.220522
 test_cases:
 - expected_values:
-    F350_FUEL_T: 21
-  response: 7E8046205223D
+    F350_FUEL_T: 18
+  response: 7E8046205223A
 - expected_values:
-    F350_FUEL_T: 22
-  response: 7E8046205223E
-- expected_values:
-    F350_FUEL_T: 23
-  response: 7E8046205223F
-- expected_values:
-    F350_FUEL_T: 24
-  response: '7E80462052240'
-- expected_values:
-    F350_FUEL_T: 25
-  response: '7E80462052241'
-- expected_values:
-    F350_FUEL_T: 26
-  response: '7E80462052242'
-- expected_values:
-    F350_FUEL_T: 27
-  response: '7E80462052243'
-- expected_values:
-    F350_FUEL_T: 28
-  response: '7E80462052244'
-- expected_values:
-    F350_FUEL_T: 29
-  response: '7E80462052245'
-- expected_values:
-    F350_FUEL_T: 30
-  response: '7E80462052246'
+    F350_FUEL_T: 47
+  response: '7E80462052257'

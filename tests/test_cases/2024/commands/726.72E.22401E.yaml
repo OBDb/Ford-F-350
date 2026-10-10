@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     F350_NORM_CUM_CHG_IGN_ON: 36
   response: 72E0562401E0168
+- expected_values:
+    F350_NORM_CUM_CHG_IGN_ON: 36.1
+  response: 72E0562401E0169

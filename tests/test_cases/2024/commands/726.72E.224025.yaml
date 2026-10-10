@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     F350_BAT_QUIESCENT: 18
   response: 72E0562402507F4
+- expected_values:
+    F350_BAT_QUIESCENT: 28
+  response: '72E056240250808'
