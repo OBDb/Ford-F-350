@@ -1,0 +1,23 @@
+command_id: 7E1.7E9.221674
+test_cases:
+- expected_values:
+    F350_ATF_T_VAR_2: 697
+  response: 7E90562167402B9
+- expected_values:
+    F350_ATF_T_VAR_2: 720
+  response: 7E90562167402D0
+- expected_values:
+    F350_ATF_T_VAR_2: 735
+  response: 7E90562167402DF
+- expected_values:
+    F350_ATF_T_VAR_2: 908
+  response: 7E905621674038C
+- expected_values:
+    F350_ATF_T_VAR_2: 935
+  response: 7E90562167403A7
+- expected_values:
+    F350_ATF_T_VAR_2: 1089
+  response: '7E9056216740441'
+- expected_values:
+    F350_ATF_T_VAR_2: 1183
+  response: 7E905621674049F

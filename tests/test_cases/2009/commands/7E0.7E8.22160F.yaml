@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22160F
+test_cases:
+- expected_values:
+    F350_MIS_CNT_2: 0
+  response: 7E80562160F0000

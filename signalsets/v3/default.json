@@ -186,7 +186,7 @@
   "signals": [
     {"id": "F350_STEER_ANGLE", "path": "Control", "fmt": { "len": 16, "max": 1638, "min": -1638, "div": 20, "add": -1638.4, "unit": "degrees" }, "name": "Steering wheel angle (ABS)", "description": "Positive is rotated to the left, negative is rotated to the right."}
   ]},
-{ "hdr": "760", "rax": "768", "dbg": true, "cmd": {"22": "3987"}, "freq": 0.25,
+{ "hdr": "760", "rax": "768", "cmd": {"22": "3987"}, "freq": 0.25, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_ABS_WHL_SPD_1", "path": "Control", "fmt": {           "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Anti-lock brake wheel speed 1"},
     {"id": "F350_ABS_WHL_SPD_2", "path": "Control", "fmt": {"bix": 8,  "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Anti-lock brake wheel speed 2"},
@@ -641,15 +641,15 @@
   "signals": [
     {"id": "F350_ETC_ANG_ACT", "path": "Engine", "fmt": { "len": 16, "max": 127.99, "div": 512, "unit": "degrees" }, "name": "Throttle angle, actual"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0966"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0966"}, "freq": 1, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_DPF_REGEN_STAT", "path": "Engine", "fmt": { "len": 8, "max": 1.99, "div": 128, "unit": "scalar" }, "name": "Diesel particulate filter regen status"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "096C"}, "freq": 0.25,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "096C"}, "freq": 0.25, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_EGR_THROTTLE_POS_SIG", "path": "Engine", "fmt": { "len": 16, "max": 200, "mul": 100, "div": 32767, "unit": "percent" }, "name": "Exhaust gas recirculation throttle position signal"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "096D"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "096D"}, "freq": 1, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_VGT_DUTY", "path": "Engine", "fmt": { "len": 16, "max": 200, "mul": 100, "div": 32767, "unit": "percent" }, "name": "Variable geometry turbo duty cycle"}
   ]},
@@ -669,23 +669,23 @@
   "signals": [
     {"id": "F350_CYL_4_FUEL_BALANCE", "path": "Fuel", "fmt": {"bix": 8, "len": 24, "max": 65.53, "min": -65.53, "div": 128000, "sign": true, "unit": "scalar" }, "name": "Cylinder 4 fuel balance correction"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0991"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0991"}, "freq": 5, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_EGT_PRE_DOC", "path": "Engine", "fmt": { "len": 16, "max": 1500, "min": -40, "add": -40, "unit": "celsius" }, "name": "Exhaust gas temperature after turbo, before oxidation catalyst"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0992"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0992"}, "freq": 5, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_EGT_PRE_DPF", "path": "Engine", "fmt": { "len": 16, "max": 1500, "min": -40, "add": -40, "unit": "celsius" }, "name": "Exhaust gas temperature after oxidation catalyst, before particulate filter"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "099B"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "099B"}, "freq": 1, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_AC_STATE", "path": "Climate", "fmt": { "len": 8, "max": 1, "unit": "offon" }, "name": "A/C compressor, state"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "099F"}, "freq": 0.25,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "099F"}, "freq": 0.25, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_FAN_SPD_SENS", "path": "Movement", "fmt": { "len": 16, "max": 16383.75, "div": 4, "unit": "rpm" }, "name": "Fan speed sensor"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "09CB"}, "freq": 0.25,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "09CB"}, "freq": 0.25, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_TQ_INTO_TQ_CONV", "path": "Engine", "fmt": { "len": 16, "max": 48336.1353, "div": 1.35581795, "unit": "newtonMeters" }, "name": "Torque into torque converter"}
   ]},
@@ -701,11 +701,11 @@
   "signals": [
     {"id": "F350_FICM_MAIN_POWER", "path": "Engine", "fmt": { "len": 16, "max": 255, "div": 256, "unit": "volts" }, "name": "Injector control module main power"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "09D2"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "09D2"}, "freq": 1, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_EGR_VLV_POS_DES", "path": "Engine", "fmt": { "len": 16, "max": 200, "mul": 100, "div": 32767, "unit": "percent" }, "name": "Exhaust gas recirculation valve position, desired"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "09D4"}, "freq": 0.25,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "09D4"}, "freq": 0.25, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_ACCEL_PEDAL_POS", "path": "Movement", "fmt": { "len": 8, "max": 127.5, "div": 2, "unit": "percent" }, "name": "Accelerator pedal position"}
   ]},
@@ -713,7 +713,7 @@
   "signals": [
     {"id": "F350_TURBO_BOOST", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "kilopascal" }, "name": "Turbo boost"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "09FE"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "09FE"}, "freq": 1, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_EGR_VLV_POS_MEAS", "path": "Engine", "fmt": { "len": 16, "max": 200, "mul": 100, "div": 32767, "unit": "percent" }, "name": "Exhaust gas recirculation valve position measured"}
   ]},
@@ -741,11 +741,11 @@
   "signals": [
     {"id": "F350_FUEL_PMP_WIDTH_BANK_2", "path": "Engine", "fmt": { "len": 16, "max": 13107, "div": 5, "unit": "scalar" }, "name": "Fuel pump pulse width, bank 2"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "115F"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "115F"}, "freq": 5, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_EGR_T", "path": "Engine", "fmt": { "len": 16, "max": 11756, "min": -40, "mul": 9, "div": 50, "add": -40, "unit": "fahrenheit" }, "name": "Exhaust gas recirculation temperature a"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1161"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1161"}, "freq": 5, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_EGR_INLET_T", "path": "Engine", "fmt": { "len": 16, "max": 11756, "min": -40, "mul": 9, "div": 50, "add": -40, "unit": "fahrenheit" }, "name": "Exhaust gas recirculation inlet temperature"}
   ]},
@@ -757,15 +757,15 @@
   "signals": [
     {"id": "F350_IGN_TIM_CYL1", "path": "Engine", "fmt": { "len": 16, "max": 80, "min": -80, "div": 4, "sign": true, "unit": "degrees" }, "name": "Ignition timing, cylinder 1"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "116C"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "116C"}, "freq": 1, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_DPF_DELTA_P", "path": "Engine", "fmt": { "len": 16, "max": 519625, "mul": 7.928974, "unit": "kilopascal" }, "name": "Diesel particulate filter delta pressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1171"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1171"}, "freq": 5, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_EGT_POST_DPF", "path": "Engine", "fmt": { "len": 16, "max": 1500, "min": -40, "add": -40, "unit": "celsius" }, "name": "Exhaust gas temperature after particulate filter"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1172"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1172"}, "freq": 1, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_BAT_V", "path": "Battery", "fmt": { "len": 8, "max": 15.9375, "div": 16, "unit": "volts" }, "name": "Battery voltage"}
   ]},
@@ -797,7 +797,7 @@
   "signals": [
     {"id": "F350_IAT_SENS_V", "path": "Engine", "fmt": { "len": 16, "max": 5, "mul": 5, "div": 1023, "unit": "volts" }, "name": "Intake temperature sensor voltage"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1310"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1310"}, "freq": 5, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_EOT", "path": "Engine", "fmt": { "len": 16, "max": 615, "min": -40, "div": 100, "add": -40, "unit": "celsius" }, "name": "Engine oil temperature"}
   ]},
@@ -809,7 +809,7 @@
   "signals": [
     {"id": "F350_VOLUME_FUEL_DES", "path": "Fuel", "fmt": { "len": 16, "max": 4095, "div": 16, "unit": "scalar" }, "name": "Volume fuel, desired"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dout": "00", "dbg": true, "cmd": {"22": "1412"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "dout": "00", "cmd": {"22": "1412"}, "freq": 1, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_MASS_FUEL_DES", "path": "Fuel", "fmt": { "len": 16, "max": 4095, "div": 16, "unit": "scalar" }, "name": "Mass fuel, desired"}
   ]},
@@ -817,11 +817,11 @@
   "signals": [
     {"id": "F350_IPR_DUTY", "path": "Engine", "fmt": { "len": 8, "max": 99.6, "mul": 25, "div": 64, "unit": "percent" }, "name": "Injection pressure regulator duty cycle"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1440"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1440"}, "freq": 1, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_BOOST", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "psi" }, "name": "Boost"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1445"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1445"}, "freq": 1, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_EXH_BACK_P", "path": "Engine", "fmt": { "len": 16, "max": 2375, "mul": 29, "div": 800, "unit": "psi" }, "name": "Exhaust back pressure"}
   ]},
@@ -833,39 +833,39 @@
   "signals": [
     {"id": "F350_VSS_HD", "path": "Movement", "fmt": { "len": 16, "max": 200, "div": 128, "unit": "kilometersPerHour" }, "name": "Vehicle speed, high resolution"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "160E"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "160E"}, "freq": 1, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_MIS_CNT_1", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Cylinder 1 misfire count"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "160F"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "160F"}, "freq": 1, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_MIS_CNT_2", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Cylinder 2 misfire count"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1610"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1610"}, "freq": 1, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_MIS_CNT_3", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Cylinder 3 misfire count"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1611"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1611"}, "freq": 1, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_MIS_CNT_4", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Cylinder 4 misfire count"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1612"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1612"}, "freq": 1, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_MIS_CNT_5", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Cylinder 5 misfire count"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1613"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1613"}, "freq": 1, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_MIS_CNT", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Cylinder 6 misfire count"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1614"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1614"}, "freq": 1, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_MIS_CNT_7", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Cylinder 7 misfire count"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1615"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1615"}, "freq": 1, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_MIS_CNT_8", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Cylinder 8 misfire count"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1616"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1616"}, "freq": 1, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_TOT_MIS_CNT", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Total misfire count"}
   ]},
@@ -897,11 +897,11 @@
   "signals": [
     {"id": "F350_CYL_HEAD_T_ALT", "path": "Engine", "fmt": { "len": 16, "max": 18415, "mul": 281, "div": 1000, "unit": "fahrenheit" }, "name": "Cylinder head temperature, alternate"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "168B"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "168B"}, "freq": 1, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_FUEL_INJ_IMPULSE", "path": "Fuel", "fmt": { "len": 16, "max": 0.1, "div": 125000, "unit": "seconds" }, "name": "Fuel injection impulse width"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "16A8"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "16A8"}, "freq": 1, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_IAT_2", "path": "Engine", "fmt": { "len": 16, "max": 36390, "min": -17.77, "mul": 5, "div": 9, "add": -17.777778, "unit": "celsius" }, "name": "Intake air temperature 2"}
   ]},
@@ -909,7 +909,7 @@
   "signals": [
     {"id": "F350_ICP_V", "path": "Battery", "fmt": { "len": 8, "max": 5, "div": 51, "unit": "volts" }, "name": "Injection control pressure sensor voltage"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "16C1"}, "freq": 30,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "16C1"}, "freq": 30, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_FLI_7E0", "path": "Fuel", "fmt": { "len": 16, "max": 200, "mul": 0.0030518509, "unit": "percent" }, "name": "Fuel level", "suggestedMetric": "fuelTankLevel"}
   ]},
@@ -921,7 +921,7 @@
   "signals": [
     {"id": "F350_WASTEGATE_CTRL", "path": "Engine", "fmt": { "len": 16, "max": 100, "mul": 763, "div": 50000, "unit": "percent" }, "name": "Wastegate control"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "16E8"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "16E8"}, "freq": 1, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_CMD_GEN_DUTY", "path": "Engine", "fmt": { "len": 16, "max": 100, "mul": 0.003052, "unit": "percent" }, "name": "Commanded generator duty"}
   ]},
@@ -984,7 +984,7 @@
   "signals": [
     {"id": "F350_AC_P_SENS_V", "path": "Climate", "fmt": { "len": 16, "max": 5, "div": 1024, "sign": true, "unit": "volts" }, "name": "A/C compressor pressure sensor voltage"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "C974"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "C974"}, "freq": 1, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_DPF_SOOT_LEVEL_C974", "path": "Engine", "fmt": { "len": 16, "max": 73.72, "div": 1000, "add": 8.192, "unit": "scalar" }, "name": "Diesel particulate filter soot level"}
   ]},
@@ -1092,7 +1092,7 @@
   "signals": [
     {"id": "F350_DIST_SINCE_COMPLETE_FD8A", "path": "Engine", "fmt": { "len": 16, "max": 653, "mul": 0.009977908, "unit": "kilometers" }, "name": "Distance since last complete DPF regeneration"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "11B3"}, "freq": 0.25,
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "11B3"}, "freq": 0.25, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_TRANS_GEAR_7E1", "path": "Transmission", "fmt": { "len": 8, "max": 127.5, "div": 2, "unit": "scalar" }, "name": "Transmission gear"}
   ]},
@@ -1100,7 +1100,7 @@
   "signals": [
     {"id": "F350_TQ_INTO_TQ_CONV_VAR_2", "path": "Transmission", "fmt": { "len": 8, "max": 69.1467, "mul": 0.2711635897, "unit": "newtonMeters" }, "name": "Torque into torque converter, variant 2"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "1674"}, "freq": 5,
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1674"}, "freq": 5, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_ATF_T_VAR_2", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "fahrenheit" }, "name": "Transmission fluid temperature, variant 2"}
   ]},

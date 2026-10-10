@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2209FE
+test_cases:
+- expected_values:
+    F350_EGR_VLV_POS_MEAS: 100
+  response: 7E8056209FE7FFF

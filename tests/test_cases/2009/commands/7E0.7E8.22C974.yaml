@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22C974
+test_cases:
+- expected_values:
+    F350_DPF_SOOT_LEVEL_C974: 40.96
+  response: 7E80562C9748000

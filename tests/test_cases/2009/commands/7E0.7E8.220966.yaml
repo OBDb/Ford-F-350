@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.220966
+test_cases:
+- expected_values:
+    F350_DPF_REGEN_STAT: 0
+  response: '7E80462096600'

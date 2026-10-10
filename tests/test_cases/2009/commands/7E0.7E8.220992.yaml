@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.220992
+test_cases:
+- expected_values:
+    F350_EGT_PRE_DPF: 28
+  response: '7E8056209920044'
+- expected_values:
+    F350_EGT_PRE_DPF: 30
+  response: '7E8056209920046'
+- expected_values:
+    F350_EGT_PRE_DPF: 34
+  response: 7E805620992004A
+- expected_values:
+    F350_EGT_PRE_DPF: 36
+  response: 7E805620992004C
+- expected_values:
+    F350_EGT_PRE_DPF: 38
+  response: 7E805620992004E

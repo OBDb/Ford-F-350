@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2209CB
+test_cases:
+- expected_values:
+    F350_TQ_INTO_TQ_CONV: 14.75124
+  response: 7E8056209CB0014
+- expected_values:
+    F350_TQ_INTO_TQ_CONV: 140.13681
+  response: 7E8056209CB00BE
+- expected_values:
+    F350_TQ_INTO_TQ_CONV: 193.24128
+  response: 7E8056209CB0106

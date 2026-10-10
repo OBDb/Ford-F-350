@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22168B
+test_cases:
+- expected_values:
+    F350_FUEL_INJ_IMPULSE: 0.1
+  response: 7E80562168B3F40
+- expected_values:
+    F350_FUEL_INJ_IMPULSE: 0.1
+  response: 7E80562168B4013
+- expected_values:
+    F350_FUEL_INJ_IMPULSE: 0.1
+  response: 7E80562168B85E6

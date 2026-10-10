@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22115F
+test_cases:
+- expected_values:
+    F350_EGR_T: 254.84
+  response: 7E80562115F0666
+- expected_values:
+    F350_EGR_T: 413.6
+  response: 7E80562115F09D8
+- expected_values:
+    F350_EGR_T: 420.8
+  response: 7E80562115F0A00
+- expected_values:
+    F350_EGR_T: 755.24
+  response: 7E80562115F1142

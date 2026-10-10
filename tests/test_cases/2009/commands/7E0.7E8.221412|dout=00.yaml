@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221412|dout=00
+test_cases:
+- expected_values:
+    F350_MASS_FUEL_DES: 0
+  response: '7E8056214120000'
+- expected_values:
+    F350_MASS_FUEL_DES: 15.125
+  response: 7E80562141200F2
+- expected_values:
+    F350_MASS_FUEL_DES: 33.1875
+  response: '7E8056214120213'

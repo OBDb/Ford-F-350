@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221445
+test_cases:
+- expected_values:
+    F350_EXH_BACK_P: 15.805
+  response: 7E80562144501B4
+- expected_values:
+    F350_EXH_BACK_P: 19.0675
+  response: 7E805621445020E
+- expected_values:
+    F350_EXH_BACK_P: 36.50375
+  response: 7E80562144503EF
+- expected_values:
+    F350_EXH_BACK_P: 41.36125
+  response: '7E8056214450475'

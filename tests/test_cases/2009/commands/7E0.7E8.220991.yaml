@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.220991
+test_cases:
+- expected_values:
+    F350_EGT_PRE_DOC: 28
+  response: '7E8056209910044'
+- expected_values:
+    F350_EGT_PRE_DOC: 30
+  response: '7E8056209910046'
+- expected_values:
+    F350_EGT_PRE_DOC: 32
+  response: '7E8056209910048'
+- expected_values:
+    F350_EGT_PRE_DOC: 34
+  response: 7E805620991004A
+- expected_values:
+    F350_EGT_PRE_DOC: 36
+  response: 7E805620991004C
+- expected_values:
+    F350_EGT_PRE_DOC: 38
+  response: 7E805620991004E
+- expected_values:
+    F350_EGT_PRE_DOC: 40
+  response: '7E8056209910050'
