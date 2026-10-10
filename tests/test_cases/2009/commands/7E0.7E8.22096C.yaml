@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22096C
+test_cases:
+- expected_values:
+    F350_EGR_THROTTLE_POS_SIG: 4.99893
+  response: 7E80562096C0666

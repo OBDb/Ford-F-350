@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221440
+test_cases:
+- expected_values:
+    F350_BOOST: 386
+  response: '7E8056214400182'
+- expected_values:
+    F350_BOOST: 475
+  response: 7E80562144001DB
+- expected_values:
+    F350_BOOST: 574
+  response: 7E805621440023E

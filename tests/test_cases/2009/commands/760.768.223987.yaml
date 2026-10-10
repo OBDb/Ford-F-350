@@ -1,0 +1,20 @@
+command_id: 760.768.223987
+test_cases:
+- expected_values:
+    F350_ABS_WHL_SPD_1: 0
+    F350_ABS_WHL_SPD_2: 0
+    F350_ABS_WHL_SPD_3: 0
+    F350_ABS_WHL_SPD_4: 0
+  response: '7680762398700000000'
+- expected_values:
+    F350_ABS_WHL_SPD_1: 36
+    F350_ABS_WHL_SPD_2: 36
+    F350_ABS_WHL_SPD_3: 36
+    F350_ABS_WHL_SPD_4: 0
+  response: '7680762398724242400'
+- expected_values:
+    F350_ABS_WHL_SPD_1: 73
+    F350_ABS_WHL_SPD_2: 73
+    F350_ABS_WHL_SPD_3: 72
+    F350_ABS_WHL_SPD_4: 0
+  response: '7680762398749494800'

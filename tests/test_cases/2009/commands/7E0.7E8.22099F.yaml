@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22099F
+test_cases:
+- expected_values:
+    F350_FAN_SPD_SENS: 374
+  response: 7E80562099F05D8
+- expected_values:
+    F350_FAN_SPD_SENS: 382
+  response: 7E80562099F05F8
+- expected_values:
+    F350_FAN_SPD_SENS: 452
+  response: 7E80562099F0710
+- expected_values:
+    F350_FAN_SPD_SENS: 613
+  response: 7E80562099F0994

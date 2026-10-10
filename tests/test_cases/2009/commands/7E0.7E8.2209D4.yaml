@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2209D4
+test_cases:
+- expected_values:
+    F350_ACCEL_PEDAL_POS: 0
+  response: 7E8046209D400
+- expected_values:
+    F350_ACCEL_PEDAL_POS: 3
+  response: 7E8046209D406
+- expected_values:
+    F350_ACCEL_PEDAL_POS: 9
+  response: 7E8046209D412
+- expected_values:
+    F350_ACCEL_PEDAL_POS: 12
+  response: 7E8046209D418
+- expected_values:
+    F350_ACCEL_PEDAL_POS: 14
+  response: 7E8046209D41C
+- expected_values:
+    F350_ACCEL_PEDAL_POS: 17.5
+  response: 7E8046209D423
+- expected_values:
+    F350_ACCEL_PEDAL_POS: 20
+  response: 7E8046209D428

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221171
+test_cases:
+- expected_values:
+    F350_EGT_POST_DPF: 25
+  response: '7E8056211710041'
+- expected_values:
+    F350_EGT_POST_DPF: 27
+  response: '7E8056211710043'
+- expected_values:
+    F350_EGT_POST_DPF: 29
+  response: '7E8056211710045'
+- expected_values:
+    F350_EGT_POST_DPF: 31
+  response: '7E8056211710047'

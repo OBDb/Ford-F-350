@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22096D
+test_cases:
+- expected_values:
+    F350_VGT_DUTY: 52.88858
+  response: 7E80562096D43B2
+- expected_values:
+    F350_VGT_DUTY: 75.31663
+  response: 7E80562096D6067
+- expected_values:
+    F350_VGT_DUTY: 76.43971
+  response: 7E80562096D61D7
+- expected_values:
+    F350_VGT_DUTY: 76.80898
+  response: 7E80562096D6250
+- expected_values:
+    F350_VGT_DUTY: 89.0408
+  response: 7E80562096D71F8
+- expected_values:
+    F350_VGT_DUTY: 91.5952
+  response: 7E80562096D753D
+- expected_values:
+    F350_VGT_DUTY: 92.08045
+  response: 7E80562096D75DC
+- expected_values:
+    F350_VGT_DUTY: 95.00412
+  response: 7E80562096D799A

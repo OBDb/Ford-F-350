@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221310
+test_cases:
+- expected_values:
+    F350_EOT: 41
+  response: 7E8056213101FA4
+- expected_values:
+    F350_EOT: 47
+  response: 7E80562131021FC
+- expected_values:
+    F350_EOT: 65
+  response: '7E8056213102904'
+- expected_values:
+    F350_EOT: 68
+  response: 7E8056213102A30

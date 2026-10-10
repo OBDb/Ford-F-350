@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221161
+test_cases:
+- expected_values:
+    F350_EGR_INLET_T: -4
+  response: 7E80562116100C8

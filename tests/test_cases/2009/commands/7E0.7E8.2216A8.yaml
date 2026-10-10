@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.2216A8
+test_cases:
+- expected_values:
+    F350_IAT_2: 27.77778
+  response: 7E8056216A80052
+- expected_values:
+    F350_IAT_2: 28.88889
+  response: 7E8056216A80054
+- expected_values:
+    F350_IAT_2: 30
+  response: 7E8056216A80056
+- expected_values:
+    F350_IAT_2: 30.55556
+  response: 7E8056216A80057
+- expected_values:
+    F350_IAT_2: 31.66667
+  response: 7E8056216A80059
+- expected_values:
+    F350_IAT_2: 32.77778
+  response: 7E8056216A8005B
+- expected_values:
+    F350_IAT_2: 33.88889
+  response: 7E8056216A8005D
+- expected_values:
+    F350_IAT_2: 35
+  response: 7E8056216A8005F
