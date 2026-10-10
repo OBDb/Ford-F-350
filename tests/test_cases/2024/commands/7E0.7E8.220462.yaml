@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220462
+test_cases:
+- expected_values:
+    F350_WGDC: 0
+  response: '7E8056204620000'
+- expected_values:
+    F350_WGDC: 5.42908
+  response: 7E80562046206F3

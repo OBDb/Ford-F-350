@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F4A6
+test_cases:
+- expected_values:
+    F350_PCM_VEH_ODO: 49981.1
+  response: 7E80762F4A60007A063
+- expected_values:
+    F350_PCM_VEH_ODO: 49996.6
+  response: 7E80762F4A60007A0FE

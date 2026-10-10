@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22DD01
+test_cases:
+- expected_values:
+    F350_ODO_7E0: 49981
+  response: 7E80662DD0100C33D
+- expected_values:
+    F350_ODO_7E0: 49996
+  response: 7E80662DD0100C34C
