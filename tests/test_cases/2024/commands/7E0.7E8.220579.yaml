@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220579
+test_cases:
+- expected_values:
+    F350_DPF_SOOT_LOAD: 7
+  response: '7E8056205790007'
+- expected_values:
+    F350_DPF_SOOT_LOAD: 8
+  response: '7E8056205790008'

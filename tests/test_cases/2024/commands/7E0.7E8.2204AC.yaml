@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2204AC
+test_cases:
+- expected_values:
+    F350_CYL_3_FUEL_QTY: 0
+  response: 7E8076204AC00000000
+- expected_values:
+    F350_CYL_3_FUEL_QTY: 5.79584
+  response: 7E8076204AC000B51EB
+- expected_values:
+    F350_CYL_3_FUEL_QTY: 7.15776
+  response: 7E8076204AC000DFAE1
+- expected_values:
+    F350_CYL_3_FUEL_QTY: 49.38752
+  response: 7E8076204AC006075C2

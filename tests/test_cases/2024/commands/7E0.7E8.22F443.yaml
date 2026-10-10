@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F443
+test_cases:
+- expected_values:
+    F350_ENG_LOAD_ACT: 0
+  response: 7E80562F4430000
+- expected_values:
+    F350_ENG_LOAD_ACT: 98.82353
+  response: 7E80562F44300FC
+- expected_values:
+    F350_ENG_LOAD_ACT: 101.17647
+  response: 7E80562F4430102

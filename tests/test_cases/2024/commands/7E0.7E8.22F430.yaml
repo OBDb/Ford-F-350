@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F430
+test_cases:
+- expected_values:
+    F350_WARMUP_CLR: 67
+  response: 7E80462F43043
+- expected_values:
+    F350_WARMUP_CLR: 68
+  response: 7E80462F43044

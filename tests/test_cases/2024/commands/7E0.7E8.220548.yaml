@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220548
+test_cases:
+- expected_values:
+    F350_LPFP_ACT: 14.21402
+  response: 7E80562054800C4
+- expected_values:
+    F350_LPFP_ACT: 71.50524
+  response: 7E80562054803DA
+- expected_values:
+    F350_LPFP_ACT: 72.59304
+  response: 7E80562054803E9

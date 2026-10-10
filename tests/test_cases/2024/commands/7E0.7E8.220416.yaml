@@ -1,0 +1,10 @@
+command_id: 7E0.7E8.220416
+test_cases:
+- expected_values:
+    F350_GLOW_PLUG_CMD_STAT: -4
+    F350_LOW_OIL_P_SWITCH: 0
+  response: '7E80762041600020000'
+- expected_values:
+    F350_GLOW_PLUG_CMD_STAT: -4
+    F350_LOW_OIL_P_SWITCH: 1
+  response: '7E80762041600022200'

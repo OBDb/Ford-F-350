@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2203B9
+test_cases:
+- expected_values:
+    F350_FAN_SPD_DES: 1.74563
+  response: 7E8056203B9023C
+- expected_values:
+    F350_FAN_SPD_DES: 7.99573
+  response: 7E8056203B90A3C
+- expected_values:
+    F350_FAN_SPD_DES: 8.99672
+  response: 7E8056203B90B84
+- expected_values:
+    F350_FAN_SPD_DES: 19.1165
+  response: 7E8056203B91878
+- expected_values:
+    F350_FAN_SPD_DES: 52.24689
+  response: 7E8056203B942E0
+- expected_values:
+    F350_FAN_SPD_DES: 53.87045
+  response: 7E8056203B944F4
