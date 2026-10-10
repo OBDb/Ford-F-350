@@ -1,5 +1,7 @@
 model_year: 2009
 supported_commands_by_ecu:
+  "720":
+  - 720.728.226185:F350_FLI_720
   "7DF":
   - 7DF.0104
   "7E0":

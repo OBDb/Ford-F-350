@@ -11,7 +11,7 @@
   "signals": [
     {"id": "F350_ODO_720", "path": "Trips", "fmt": { "len": 24, "max": 1677721, "div": 10, "unit": "kilometers" }, "name": "Odometer"}
   ]},
-{ "hdr": "720", "rax": "728", "dbg": true, "cmd": {"22": "6185"}, "freq": 30,
+{ "hdr": "720", "rax": "728", "cmd": {"22": "6185"}, "freq": 30, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_FLI_720", "path": "Fuel", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Fuel tank level", "suggestedMetric": "fuelTankLevel"}
   ]},
