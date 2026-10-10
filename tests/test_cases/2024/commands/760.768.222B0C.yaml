@@ -4,8 +4,8 @@ test_cases:
     F350_LAT_ANG: 0
   response: 76805622B0C0000
 - expected_values:
-    F350_LAT_ANG: -13
-  response: 76805622B0CFFF3
+    F350_LAT_ANG: -20
+  response: 76805622B0CFFEC
 - expected_values:
     F350_LAT_ANG: -2
   response: 76805622B0CFFFE

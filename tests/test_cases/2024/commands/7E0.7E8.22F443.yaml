@@ -7,5 +7,5 @@ test_cases:
     F350_ENG_LOAD_ACT: 98.82353
   response: 7E80562F44300FC
 - expected_values:
-    F350_ENG_LOAD_ACT: 101.17647
-  response: 7E80562F4430102
+    F350_ENG_LOAD_ACT: 100.39216
+  response: 7E80562F4430100

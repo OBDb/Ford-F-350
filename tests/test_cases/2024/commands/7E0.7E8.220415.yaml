@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.220415
 test_cases:
 - expected_values:
-    F350_PCM_ENG_EOP_RAW: 102
-  response: '7E8056204150066'
+    F350_PCM_ENG_EOP_RAW: 101
+  response: '7E8056204150065'
 - expected_values:
-    F350_PCM_ENG_EOP_RAW: 250
-  response: 7E80562041500FA
+    F350_PCM_ENG_EOP_RAW: 251
+  response: 7E80562041500FB
 - expected_values:
-    F350_PCM_ENG_EOP_RAW: 258
-  response: '7E8056204150102'
+    F350_PCM_ENG_EOP_RAW: 256
+  response: '7E8056204150100'

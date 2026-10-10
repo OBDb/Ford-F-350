@@ -4,8 +4,8 @@ test_cases:
     F350_VOLUME_FUEL_DES: 0
   response: '7E8056214110000'
 - expected_values:
-    F350_VOLUME_FUEL_DES: 15.25
-  response: 7E80562141100F4
+    F350_VOLUME_FUEL_DES: 15.9375
+  response: 7E80562141100FF
 - expected_values:
     F350_VOLUME_FUEL_DES: 50.6875
   response: 7E805621411032B

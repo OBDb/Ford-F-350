@@ -8,10 +8,5 @@ test_cases:
 - expected_values:
     F350_DPF_REGEN_STAT_F48B: 2944.2
   response: |-
-    7E8100A62F48B73021A
-    7E82102800320CCCCCC
-- expected_values:
-    F350_DPF_REGEN_STAT_F48B: 2944.2
-  response: |-
-    7E8100A62F48B73021B
+    7E8100A62F48B730227
     7E82102800320CCCCCC

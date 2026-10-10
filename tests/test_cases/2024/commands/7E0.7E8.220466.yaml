@@ -4,8 +4,8 @@ test_cases:
     F350_TIP_DES_ABS: 14.16115
   response: 7E80562046631FF
 - expected_values:
-    F350_TIP_DES_ABS: 20.12368
-  response: 7E805620466470C
+    F350_TIP_DES_ABS: 17.00798
+  response: 7E8056204663C0C
 - expected_values:
-    F350_TIP_DES_ABS: 21.42705
-  response: 7E8056204664BA6
+    F350_TIP_DES_ABS: 22.36198
+  response: 7E8056204664EF3

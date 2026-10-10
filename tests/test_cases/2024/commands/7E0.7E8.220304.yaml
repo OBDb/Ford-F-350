@@ -4,8 +4,8 @@ test_cases:
     F350_CMD_GEN_V: 10.5935
   response: 7E80562030454CC
 - expected_values:
-    F350_CMD_GEN_V: 14.61121
-  response: 7E80562030474F5
+    F350_CMD_GEN_V: 14.49116
+  response: 7E80562030473FF
 - expected_values:
     F350_CMD_GEN_V: 14.87131
   response: 7E805620304770A

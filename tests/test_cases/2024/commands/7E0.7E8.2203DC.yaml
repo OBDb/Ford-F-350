@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2203DC
 test_cases:
 - expected_values:
-    F350_HPFP_DES: 3500
-  response: 7E8056203DC0AD4
+    F350_HPFP_DES: 3480.90575
+  response: 7E8056203DC0960
 - expected_values:
     F350_HPFP_DES: 3500
   response: 7E8056203DC25F8

@@ -4,5 +4,5 @@ test_cases:
     F350_AAT_V: 2.78592
   response: 7E8056203BA023A
 - expected_values:
-    F350_AAT_V: 2.92278
-  response: 7E8056203BA0256
+    F350_AAT_V: 3.42131
+  response: 7E8056203BA02BC

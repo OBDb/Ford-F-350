@@ -4,8 +4,8 @@ test_cases:
     F350_ENG_FUEL_RATE: 0
   response: 7E80562F45E0000
 - expected_values:
-    F350_ENG_FUEL_RATE: 11
-  response: 7E80562F45E00DC
+    F350_ENG_FUEL_RATE: 11.35
+  response: 7E80562F45E00E3
 - expected_values:
     F350_ENG_FUEL_RATE: 13.2
   response: 7E80562F45E0108

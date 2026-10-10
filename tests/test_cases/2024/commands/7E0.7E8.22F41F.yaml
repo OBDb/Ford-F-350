@@ -4,8 +4,11 @@ test_cases:
     F350_RUN_TIME: 37
   response: 7E80562F41F0025
 - expected_values:
-    F350_RUN_TIME: 240
-  response: 7E80562F41F00F0
+    F350_RUN_TIME: 253
+  response: 7E80562F41F00FD
 - expected_values:
-    F350_RUN_TIME: 770
-  response: 7E80562F41F0302
+    F350_RUN_TIME: 768
+  response: 7E80562F41F0300
+- expected_values:
+    F350_RUN_TIME: 1799
+  response: 7E80562F41F0707
