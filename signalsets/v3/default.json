@@ -182,7 +182,7 @@
   "signals": [
     {"id": "F350_LAT_G", "path": "Movement", "fmt": { "len": 16, "max": 1, "min": -1, "div": 50, "sign": true, "unit": "scalar" }, "name": "Lateral acceleration"}
   ]},
-{ "hdr": "760", "rax": "768", "cmd": {"22": "3201"}, "freq": 0.25, "dbgfilter": { "to": 2011, "from": 2013 },
+{ "hdr": "760", "rax": "768", "cmd": {"22": "3201"}, "freq": 0.25, "filter": { "to": 2022 }, "dbgfilter": { "to": 2011, "from": 2013 },
   "signals": [
     {"id": "F350_STEER_ANGLE", "path": "Control", "fmt": { "len": 16, "max": 1638, "min": -1638, "div": 20, "add": -1638.4, "unit": "degrees" }, "name": "Steering wheel angle (ABS)", "description": "Positive is rotated to the left, negative is rotated to the right."}
   ]},
@@ -961,7 +961,7 @@
   "signals": [
     {"id": "F350_GEAR_ENG", "path": "Transmission", "fmt": { "len": 8, "max": 6, "unit": "scalar" }, "name": "Gear, engaged"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1E23"}, "freq": 2, "dbgfilter": { "to": 2022, "from": 2024 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1E23"}, "freq": 2, "filter": { "to": 2010, "from": 2023 }, "dbgfilter": { "from": 2024 },
   "signals": [
     {"id": "F350_GEAR_SHFT", "path": "Transmission", "name": "Shift gear", "fmt": {"len": 8, "map": {
           "10": { "description": "Manual",  "value": "MANUAL" },

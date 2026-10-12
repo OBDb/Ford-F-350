@@ -47,8 +47,8 @@ supported_commands_by_ecu:
   - 7E0.7E8.22F42F:F350_FLI
 unsupported_commands_by_ecu:
   "760":
-  - 760.768.223201:F350_STEER_ANGLE
+  - 760.768.223201|f=-2022:F350_STEER_ANGLE
   "764":
   - 764.22A224:F350_CC_TGT_VSS
   "7E0":
-  - 7E0.7E8.221E23:F350_GEAR_SHFT
+  - 7E0.7E8.221E23
