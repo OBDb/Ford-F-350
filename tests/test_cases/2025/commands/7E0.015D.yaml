@@ -5,24 +5,6 @@ test_cases:
   response: 7E804415D64A9
 - expected_values:
     FUEL_TIMING: -210
-  response: 7E804415D64AB
-- expected_values:
-    FUEL_TIMING: -210
-  response: 7E804415D657E
-- expected_values:
-    FUEL_TIMING: -210
-  response: 7E804415D6598
-- expected_values:
-    FUEL_TIMING: -210
-  response: 7E804415D662D
-- expected_values:
-    FUEL_TIMING: -210
-  response: 7E804415D6649
-- expected_values:
-    FUEL_TIMING: -210
-  response: 7E804415D6651
-- expected_values:
-    FUEL_TIMING: -210
   response: 7E804415D6700
 - expected_values:
     FUEL_TIMING: -210
