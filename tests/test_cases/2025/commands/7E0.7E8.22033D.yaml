@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22033D
+test_cases:
+- expected_values:
+    F350_MASS_AIRFLOW_SENS: 0
+  response: 7E80562033D0000

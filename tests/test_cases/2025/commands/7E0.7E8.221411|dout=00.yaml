@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221411|dout=00
+test_cases:
+- expected_values:
+    F350_VOLUME_FUEL_DES: 0
+  response: '7E8056214110000'

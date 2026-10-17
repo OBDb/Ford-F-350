@@ -1,0 +1,5 @@
+command_id: 726.72E.224026
+test_cases:
+- expected_values:
+    F350_NORM_CUM_DCHG_BAT_OFF: 15.5
+  response: 72E05624026009B

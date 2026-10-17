@@ -1,0 +1,7 @@
+command_id: 7E0.7E8.22F48B
+test_cases:
+- expected_values:
+    F350_DPF_REGEN_STAT_F48B: 2944.2
+  response: |-
+    7E8100A62F48B73026F
+    7E821033B0362CCCCCC

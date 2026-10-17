@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220324
+test_cases:
+- expected_values:
+    F350_HPFP_V: 0.51808
+  response: 7E805620324006A
+- expected_values:
+    F350_HPFP_V: 0.52297
+  response: 7E805620324006B

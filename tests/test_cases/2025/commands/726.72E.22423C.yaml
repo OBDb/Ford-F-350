@@ -1,0 +1,29 @@
+command_id: 726.72E.22423C
+test_cases:
+- expected_values:
+    F350_VEH_BAT_B_CURRENT: -21.75
+  response: 72E0562423CFD48
+- expected_values:
+    F350_VEH_BAT_B_CURRENT: -19.1875
+  response: 72E0562423CFD9A
+- expected_values:
+    F350_VEH_BAT_B_CURRENT: -18.8125
+  response: 72E0562423CFDA6
+- expected_values:
+    F350_VEH_BAT_B_CURRENT: -18.6875
+  response: 72E0562423CFDAA
+- expected_values:
+    F350_VEH_BAT_B_CURRENT: -18.375
+  response: 72E0562423CFDB4
+- expected_values:
+    F350_VEH_BAT_B_CURRENT: -18.3125
+  response: 72E0562423CFDB6
+- expected_values:
+    F350_VEH_BAT_B_CURRENT: -17.8125
+  response: 72E0562423CFDC6
+- expected_values:
+    F350_VEH_BAT_B_CURRENT: -17.4375
+  response: 72E0562423CFDD2
+- expected_values:
+    F350_VEH_BAT_B_CURRENT: -17.3125
+  response: 72E0562423CFDD6

@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22DD01
+test_cases:
+- expected_values:
+    F350_TRANS_ODO: 27404
+  response: 7E90662DD01006B0C

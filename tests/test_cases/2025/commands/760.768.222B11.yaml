@@ -1,0 +1,17 @@
+command_id: 760.768.222B11
+test_cases:
+- expected_values:
+    F350_LAT_G: 1
+  response: 76805622B1100A1
+- expected_values:
+    F350_LAT_G: 1
+  response: 76805622B1100A3
+- expected_values:
+    F350_LAT_G: 1
+  response: 76805622B1100A4
+- expected_values:
+    F350_LAT_G: 1
+  response: 76805622B1100A5
+- expected_values:
+    F350_LAT_G: 1
+  response: 76805622B1100A6
