@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.220487
+test_cases:
+- expected_values:
+    F350_DEF_LEVEL: 22.5
+  response: 7E8056204875A40
+- expected_values:
+    F350_DEF_LEVEL: 22.5
+  response: 7E8056204875A4B
+- expected_values:
+    F350_DEF_LEVEL: 22.5
+  response: 7E8056204875A4F
+- expected_values:
+    F350_DEF_LEVEL: 22.5
+  response: 7E8056204875A52
+- expected_values:
+    F350_DEF_LEVEL: 22.5
+  response: 7E8056204875A79
+- expected_values:
+    F350_DEF_LEVEL: 22.5
+  response: 7E8056204875AAB
+- expected_values:
+    F350_DEF_LEVEL: 22.5
+  response: 7E8056204875AD0
+- expected_values:
+    F350_DEF_LEVEL: 22.5
+  response: 7E8056204875AD1
+- expected_values:
+    F350_DEF_LEVEL: 22.5
+  response: 7E8056204875AD8

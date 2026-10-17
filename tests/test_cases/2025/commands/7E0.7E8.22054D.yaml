@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22054D
+test_cases:
+- expected_values:
+    F350_LPFP_SENS_V: 0.46387
+  response: 7E80562054D01DB
+- expected_values:
+    F350_LPFP_SENS_V: 0.46777
+  response: 7E80562054D01DF
+- expected_values:
+    F350_LPFP_SENS_V: 0.47168
+  response: 7E80562054D01E3

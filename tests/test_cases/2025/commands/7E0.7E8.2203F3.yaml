@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2203F3
+test_cases:
+- expected_values:
+    F350_SUMP_OIL_T_MEAS: 22
+  response: 7E8046203F33E
+- expected_values:
+    F350_SUMP_OIL_T_MEAS: 23
+  response: 7E8046203F33F

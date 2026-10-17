@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.220579
+test_cases:
+- expected_values:
+    F350_DPF_SOOT_LOAD: 11
+  response: 7E805620579000B

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2203F5
+test_cases:
+- expected_values:
+    F350_EXH_GAS_T_2: 40
+  response: 7E8046203F508

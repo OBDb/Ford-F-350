@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2204A6
+test_cases:
+- expected_values:
+    F350_CYL_7_FUEL_BALANCE: 0
+  response: 7E8076204A600000000

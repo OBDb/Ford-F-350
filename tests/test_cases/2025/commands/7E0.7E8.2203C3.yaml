@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2203C3
+test_cases:
+- expected_values:
+    F350_FUEL_RAIL_P_CTRL: 7.5
+  response: 7E8046203C30F
