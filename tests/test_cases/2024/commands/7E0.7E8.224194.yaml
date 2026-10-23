@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.224194
 test_cases:
 - expected_values:
-    F350_DTE: 568.9
-  response: '7E8056241941639'
+    F350_DTE: 533.7
+  response: 7E80562419414D9
 - expected_values:
     F350_DTE: 716.9
   response: 7E8056241941C01
@@ -10,5 +10,5 @@ test_cases:
     F350_DTE: 742.2
   response: 7E8056241941CFE
 - expected_values:
-    F350_DTE: 743.7
-  response: 7E8056241941D0D
+    F350_DTE: 936.8
+  response: '7E8056241942498'
