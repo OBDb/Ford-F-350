@@ -11,7 +11,7 @@
   "signals": [
     {"id": "F350_ODO_720", "path": "Trips", "fmt": { "len": 24, "max": 1677721, "div": 10, "unit": "kilometers" }, "name": "Odometer"}
   ]},
-{ "hdr": "720", "rax": "728", "cmd": {"22": "6185"}, "freq": 30, "dbgfilter": { "to": 2008, "from": 2010 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "6185"}, "freq": 1, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_FLI_720", "path": "Fuel", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Fuel tank level", "suggestedMetric": "fuelTankLevel"}
   ]},
@@ -909,7 +909,7 @@
   "signals": [
     {"id": "F350_ICP_V", "path": "Battery", "fmt": { "len": 8, "max": 5, "div": 51, "unit": "volts" }, "name": "Injection control pressure sensor voltage"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "16C1"}, "freq": 30, "dbgfilter": { "to": 2008, "from": 2010 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "16C1"}, "freq": 1, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "F350_FLI_7E0", "path": "Fuel", "fmt": { "len": 16, "max": 200, "mul": 0.0030518509, "unit": "percent" }, "name": "Fuel level", "suggestedMetric": "fuelTankLevel"}
   ]},
