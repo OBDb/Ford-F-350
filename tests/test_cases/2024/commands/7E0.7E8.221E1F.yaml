@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221E1F
 test_cases:
 - expected_values:
-    F350_GEAR_ENG: 0
-  response: 7E804621E1F00
+    F350_GEAR_ENG: '1'
+  response: 7E804621E1F01
 - expected_values:
-    F350_GEAR_ENG: 6
-  response: 7E804621E1F82
+    F350_GEAR_ENG: PARK
+  response: 7E804621E1F46
