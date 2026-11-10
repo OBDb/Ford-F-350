@@ -1,11 +1,11 @@
 command_id: 7DF.7E9.221E23
 test_cases:
 - expected_values:
-    F350_GEAR_SHFT_V2: 100
+    F350_GEAR_SHFT_V2: PARK
   response: 7E904621E2364
 - expected_values:
-    F350_GEAR_SHFT_V2: 101
+    F350_GEAR_SHFT_V2: REVERSE
   response: 7E904621E2365
 - expected_values:
-    F350_GEAR_SHFT_V2: 103
+    F350_GEAR_SHFT_V2: DRIVE
   response: 7E904621E2367
