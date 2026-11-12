@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.220462
+test_cases:
+- expected_values:
+    F350_WGDC: 72.59521
+  response: 7E8056204625CEC
+- expected_values:
+    F350_WGDC: 72.83936
+  response: 7E8056204625D3C
+- expected_values:
+    F350_WGDC: 73.33984
+  response: 7E8056204625DE0
+- expected_values:
+    F350_WGDC: 73.4375
+  response: 7E8056204625E00
+- expected_values:
+    F350_WGDC: 73.54736
+  response: 7E8056204625E24
+- expected_values:
+    F350_WGDC: 73.74268
+  response: 7E8056204625E64
+- expected_values:
+    F350_WGDC: 73.88916
+  response: 7E8056204625E94
+- expected_values:
+    F350_WGDC: 74.84131
+  response: 7E8056204625FCC
+- expected_values:
+    F350_WGDC: 84.24072
+  response: 7E8056204626BD4
+- expected_values:
+    F350_WGDC: 85.4126
+  response: 7E8056204626D54

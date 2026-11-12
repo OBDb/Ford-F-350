@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220522
+test_cases:
+- expected_values:
+    F350_FUEL_T: 25
+  response: '7E80462052241'
+- expected_values:
+    F350_FUEL_T: 26
+  response: '7E80462052242'
+- expected_values:
+    F350_FUEL_T: 27
+  response: '7E80462052243'

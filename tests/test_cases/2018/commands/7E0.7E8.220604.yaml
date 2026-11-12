@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220604
+test_cases:
+- expected_values:
+    F350_PCM_A_C_REFRIG_P: 786
+  response: '7E8056206040312'
+- expected_values:
+    F350_PCM_A_C_REFRIG_P: 1015
+  response: 7E80562060403F7
+- expected_values:
+    F350_PCM_A_C_REFRIG_P: 1032
+  response: '7E8056206040408'

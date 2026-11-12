@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220370
+test_cases:
+- expected_values:
+    F350_MAP_HIRES: 98.25
+  response: '7E8056203700189'
+- expected_values:
+    F350_MAP_HIRES: 98.5
+  response: 7E805620370018A
+- expected_values:
+    F350_MAP_HIRES: 98.75
+  response: 7E805620370018B

@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22054D
+test_cases:
+- expected_values:
+    F350_LPFP_SENS_V: 2.18359
+  response: 7E80562054D08BC
+- expected_values:
+    F350_LPFP_SENS_V: 2.1875
+  response: 7E80562054D08C0
+- expected_values:
+    F350_LPFP_SENS_V: 2.18945
+  response: 7E80562054D08C2
+- expected_values:
+    F350_LPFP_SENS_V: 2.19336
+  response: 7E80562054D08C6
+- expected_values:
+    F350_LPFP_SENS_V: 2.19531
+  response: 7E80562054D08C8
+- expected_values:
+    F350_LPFP_SENS_V: 2.19727
+  response: 7E80562054D08CA
+- expected_values:
+    F350_LPFP_SENS_V: 2.20117
+  response: 7E80562054D08CE

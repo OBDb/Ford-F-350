@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F45E
+test_cases:
+- expected_values:
+    F350_ENG_FUEL_RATE: 1.4
+  response: 7E80562F45E001C
+- expected_values:
+    F350_ENG_FUEL_RATE: 1.45
+  response: 7E80562F45E001D
+- expected_values:
+    F350_ENG_FUEL_RATE: 1.5
+  response: 7E80562F45E001E
+- expected_values:
+    F350_ENG_FUEL_RATE: 1.85
+  response: 7E80562F45E0025
