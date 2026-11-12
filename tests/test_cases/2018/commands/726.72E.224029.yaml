@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     F350_12V_T: 19
   response: 72E046240293B
+- expected_values:
+    F350_12V_T: 21
+  response: 72E046240293D

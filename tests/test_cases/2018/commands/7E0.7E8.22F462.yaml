@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     F350_PCM_ACT_ENG_PCT_TRQ: 7
   response: 7E80462F46284
+- expected_values:
+    F350_PCM_ACT_ENG_PCT_TRQ: 12
+  response: 7E80462F46289
