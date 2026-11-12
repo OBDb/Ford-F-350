@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.2204AC
+test_cases:
+- expected_values:
+    F350_CYL_3_FUEL_QTY: 8.83712
+  response: 7E8076204AC0011428F
+- expected_values:
+    F350_CYL_3_FUEL_QTY: 8.86784
+  response: 7E8076204AC001151EB
+- expected_values:
+    F350_CYL_3_FUEL_QTY: 8.92927
+  response: 7E8076204AC001170A3
+- expected_values:
+    F350_CYL_3_FUEL_QTY: 8.93952
+  response: 7E8076204AC001175C2
+- expected_values:
+    F350_CYL_3_FUEL_QTY: 9.11359
+  response: 7E8076204AC0011CCCC
+- expected_values:
+    F350_CYL_3_FUEL_QTY: 9.12384
+  response: 7E8076204AC0011D1EB
+- expected_values:
+    F350_CYL_3_FUEL_QTY: 9.14431
+  response: 7E8076204AC0011DC28
+- expected_values:
+    F350_CYL_3_FUEL_QTY: 11.47904
+  response: 7E8076204AC00166B85
+- expected_values:
+    F350_CYL_3_FUEL_QTY: 11.6224
+  response: 7E8076204AC0016B333

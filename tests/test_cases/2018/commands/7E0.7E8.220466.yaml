@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220466
+test_cases:
+- expected_values:
+    F350_TIP_DES_ABS: 14.16115
+  response: 7E80562046631FF
+- expected_values:
+    F350_TIP_DES_ABS: 14.17553
+  response: 7E805620466320C

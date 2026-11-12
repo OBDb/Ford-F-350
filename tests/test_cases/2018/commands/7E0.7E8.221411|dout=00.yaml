@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.221411|dout=00
+test_cases:
+- expected_values:
+    F350_VOLUME_FUEL_DES: 9.9375
+  response: 7E805621411009F
+- expected_values:
+    F350_VOLUME_FUEL_DES: 10
+  response: 7E80562141100A0
+- expected_values:
+    F350_VOLUME_FUEL_DES: 10.25
+  response: 7E80562141100A4
+- expected_values:
+    F350_VOLUME_FUEL_DES: 10.3125
+  response: 7E80562141100A5
+- expected_values:
+    F350_VOLUME_FUEL_DES: 10.375
+  response: 7E80562141100A6
+- expected_values:
+    F350_VOLUME_FUEL_DES: 10.4375
+  response: 7E80562141100A7
+- expected_values:
+    F350_VOLUME_FUEL_DES: 10.75
+  response: 7E80562141100AC
+- expected_values:
+    F350_VOLUME_FUEL_DES: 10.8125
+  response: 7E80562141100AD
+- expected_values:
+    F350_VOLUME_FUEL_DES: 12.9375
+  response: 7E80562141100CF

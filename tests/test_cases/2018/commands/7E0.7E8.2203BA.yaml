@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2203BA
+test_cases:
+- expected_values:
+    F350_AAT_V: 3.5044
+  response: 7E8056203BA02CD
+- expected_values:
+    F350_AAT_V: 3.50929
+  response: 7E8056203BA02CE
+- expected_values:
+    F350_AAT_V: 3.51417
+  response: 7E8056203BA02CF
+- expected_values:
+    F350_AAT_V: 3.52884
+  response: 7E8056203BA02D2
+- expected_values:
+    F350_AAT_V: 3.53861
+  response: 7E8056203BA02D4

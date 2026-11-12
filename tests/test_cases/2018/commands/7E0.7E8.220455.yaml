@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.220455
+test_cases:
+- expected_values:
+    F350_ALTERNATOR_2_MON: 5.38957
+  response: 7E80562045506E6

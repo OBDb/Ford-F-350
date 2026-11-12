@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2203F4
+test_cases:
+- expected_values:
+    F350_EXH_GAS_T_1: 125
+  response: 7E8046203F419
+- expected_values:
+    F350_EXH_GAS_T_1: 130
+  response: 7E8046203F41A
+- expected_values:
+    F350_EXH_GAS_T_1: 135
+  response: 7E8046203F41B
+- expected_values:
+    F350_EXH_GAS_T_1: 140
+  response: 7E8046203F41C
+- expected_values:
+    F350_EXH_GAS_T_1: 145
+  response: 7E8046203F41D

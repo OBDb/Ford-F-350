@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.220307
+test_cases:
+- expected_values:
+    F350_LPFP_DUTY: 31.86646
+  response: 7E80562030728CA
