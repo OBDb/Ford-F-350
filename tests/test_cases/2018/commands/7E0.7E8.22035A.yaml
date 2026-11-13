@@ -1,5 +1,32 @@
 command_id: 7E0.7E8.22035A
 test_cases:
 - expected_values:
+    F350_BARO_V: 3.90029
+  response: 7E80562035A031E
+- expected_values:
+    F350_BARO_V: 3.90518
+  response: 7E80562035A031F
+- expected_values:
+    F350_BARO_V: 3.91007
+  response: 7E80562035A0320
+- expected_values:
+    F350_BARO_V: 3.91496
+  response: 7E80562035A0321
+- expected_values:
+    F350_BARO_V: 3.91984
+  response: 7E80562035A0322
+- expected_values:
+    F350_BARO_V: 3.92473
+  response: 7E80562035A0323
+- expected_values:
+    F350_BARO_V: 3.92962
+  response: 7E80562035A0324
+- expected_values:
+    F350_BARO_V: 3.93451
+  response: 7E80562035A0325
+- expected_values:
+    F350_BARO_V: 3.93939
+  response: 7E80562035A0326
+- expected_values:
     F350_BARO_V: 3.96872
   response: 7E80562035A032C

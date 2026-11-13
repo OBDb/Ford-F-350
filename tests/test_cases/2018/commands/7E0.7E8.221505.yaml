@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     F350_VSS_HD: 0
   response: '7E8056215050000'
+- expected_values:
+    F350_VSS_HD: 57.92969
+  response: 7E8056215051CF7
+- expected_values:
+    F350_VSS_HD: 108.49219
+  response: 7E805621505363F

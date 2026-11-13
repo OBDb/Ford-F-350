@@ -1,26 +1,8 @@
 command_id: 7E0.7E8.22F42C
 test_cases:
 - expected_values:
-    F350_EGR: 51
-  response: 7E80462F42C33
+    F350_EGR: 13
+  response: 7E80462F42C0D
 - expected_values:
-    F350_EGR: 57
-  response: 7E80462F42C39
-- expected_values:
-    F350_EGR: 58
-  response: 7E80462F42C3A
-- expected_values:
-    F350_EGR: 62
-  response: 7E80462F42C3E
-- expected_values:
-    F350_EGR: 64
-  response: 7E80462F42C40
-- expected_values:
-    F350_EGR: 65
-  response: 7E80462F42C41
-- expected_values:
-    F350_EGR: 74
-  response: 7E80462F42C4A
-- expected_values:
-    F350_EGR: 75
-  response: 7E80462F42C4B
+    F350_EGR: 100
+  response: 7E80462F42CB2

@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     F350_WARMUP_CLR: 164
   response: 7E80462F430A4
+- expected_values:
+    F350_WARMUP_CLR: 165
+  response: 7E80462F430A5

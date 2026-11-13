@@ -1,32 +1,8 @@
 command_id: 7E0.7E8.221279
 test_cases:
 - expected_values:
-    F350_IAT_SENS_V: 3.25024
-  response: '7E8056212790299'
+    F350_IAT_SENS_V: 2.81036
+  response: 7E805621279023F
 - expected_values:
-    F350_IAT_SENS_V: 3.26002
-  response: 7E805621279029B
-- expected_values:
-    F350_IAT_SENS_V: 3.31378
-  response: 7E80562127902A6
-- expected_values:
-    F350_IAT_SENS_V: 3.32845
-  response: 7E80562127902A9
-- expected_values:
-    F350_IAT_SENS_V: 3.348
-  response: 7E80562127902AD
-- expected_values:
-    F350_IAT_SENS_V: 3.35777
-  response: 7E80562127902AF
-- expected_values:
-    F350_IAT_SENS_V: 3.36755
-  response: 7E80562127902B1
-- expected_values:
-    F350_IAT_SENS_V: 3.40665
-  response: 7E80562127902B9
-- expected_values:
-    F350_IAT_SENS_V: 3.4262
-  response: 7E80562127902BD
-- expected_values:
-    F350_IAT_SENS_V: 3.44575
-  response: 7E80562127902C1
+    F350_IAT_SENS_V: 3.45064
+  response: 7E80562127902C2

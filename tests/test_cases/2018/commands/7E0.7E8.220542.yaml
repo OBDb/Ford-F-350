@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     F350_DIST_SINCE_OIL: 13851
   response: 7E805620542361B
+- expected_values:
+    F350_DIST_SINCE_OIL: 13899
+  response: 7E805620542364B

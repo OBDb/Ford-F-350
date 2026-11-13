@@ -4,5 +4,17 @@ test_cases:
     F350_CMD_GEN_DUTY: 0
   response: 7E8056216E80000
 - expected_values:
+    F350_CMD_GEN_DUTY: 62.84984
+  response: 7E8056216E85071
+- expected_values:
+    F350_CMD_GEN_DUTY: 63.31069
+  response: 7E8056216E85108
+- expected_values:
+    F350_CMD_GEN_DUTY: 63.77154
+  response: 7E8056216E8519F
+- expected_values:
+    F350_CMD_GEN_DUTY: 64.23239
+  response: 7E8056216E85236
+- expected_values:
     F350_CMD_GEN_DUTY: 65.15104
   response: 7E8056216E85363

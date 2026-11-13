@@ -1,8 +1,14 @@
 command_id: 7E0.7E8.220487
 test_cases:
 - expected_values:
-    F350_DEF_LEVEL: 19
-  response: 7E8056204874CEF
+    F350_DEF_LEVEL: 16.75
+  response: '7E8056204874303'
 - expected_values:
     F350_DEF_LEVEL: 19
   response: 7E8056204874CFC
+- expected_values:
+    F350_DEF_LEVEL: 19.75
+  response: 7E8056204874F02
+- expected_values:
+    F350_DEF_LEVEL: 20
+  response: '7E8056204875021'

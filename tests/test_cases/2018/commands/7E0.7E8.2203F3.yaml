@@ -6,3 +6,18 @@ test_cases:
 - expected_values:
     F350_SUMP_OIL_T_MEAS: 88
   response: 7E8046203F380
+- expected_values:
+    F350_SUMP_OIL_T_MEAS: 89
+  response: 7E8046203F381
+- expected_values:
+    F350_SUMP_OIL_T_MEAS: 90
+  response: 7E8046203F382
+- expected_values:
+    F350_SUMP_OIL_T_MEAS: 91
+  response: 7E8046203F383
+- expected_values:
+    F350_SUMP_OIL_T_MEAS: 92
+  response: 7E8046203F384
+- expected_values:
+    F350_SUMP_OIL_T_MEAS: 93
+  response: 7E8046203F385

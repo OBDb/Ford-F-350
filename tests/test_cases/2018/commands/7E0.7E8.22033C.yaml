@@ -1,8 +1,11 @@
 command_id: 7E0.7E8.22033C
 test_cases:
 - expected_values:
-    F350_TIP_V: 1.06934
-  response: 7E80562033C00DB
+    F350_TIP_V: 1.04004
+  response: 7E80562033C00D5
 - expected_values:
-    F350_TIP_V: 1.07422
-  response: 7E80562033C00DC
+    F350_TIP_V: 1.23047
+  response: 7E80562033C00FC
+- expected_values:
+    F350_TIP_V: 1.25977
+  response: 7E80562033C0102

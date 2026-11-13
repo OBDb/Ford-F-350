@@ -5,19 +5,10 @@ test_cases:
   response: 7E8056203DC0BB8
 - expected_values:
     F350_HPFP_DES: 3500
-  response: 7E8056203DC0BB9
+  response: 7E8056203DC3DFE
 - expected_values:
     F350_HPFP_DES: 3500
-  response: 7E8056203DC0BBB
+  response: 7E8056203DC4002
 - expected_values:
     F350_HPFP_DES: 3500
-  response: 7E8056203DC0BBD
-- expected_values:
-    F350_HPFP_DES: 3500
-  response: 7E8056203DC0BBF
-- expected_values:
-    F350_HPFP_DES: 3500
-  response: 7E8056203DC0BC3
-- expected_values:
-    F350_HPFP_DES: 3500
-  response: 7E8056203DC0BCB
+  response: 7E8056203DC448D

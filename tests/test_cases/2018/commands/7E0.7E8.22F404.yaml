@@ -1,23 +1,8 @@
 command_id: 7E0.7E8.22F404
 test_cases:
 - expected_values:
-    F350_ENG_LOAD_PCT: 16.07843
-  response: 7E80462F40429
+    F350_ENG_LOAD_PCT: 0
+  response: 7E80462F40400
 - expected_values:
-    F350_ENG_LOAD_PCT: 16.47059
-  response: 7E80462F4042A
-- expected_values:
-    F350_ENG_LOAD_PCT: 16.86275
-  response: 7E80462F4042B
-- expected_values:
-    F350_ENG_LOAD_PCT: 17.2549
-  response: 7E80462F4042C
-- expected_values:
-    F350_ENG_LOAD_PCT: 17.64706
-  response: 7E80462F4042D
-- expected_values:
-    F350_ENG_LOAD_PCT: 21.56863
-  response: 7E80462F40437
-- expected_values:
-    F350_ENG_LOAD_PCT: 21.96078
-  response: 7E80462F40438
+    F350_ENG_LOAD_PCT: 86.66667
+  response: 7E80462F404DD

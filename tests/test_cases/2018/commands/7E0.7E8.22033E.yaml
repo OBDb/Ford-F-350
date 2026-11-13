@@ -1,17 +1,14 @@
 command_id: 7E0.7E8.22033E
 test_cases:
 - expected_values:
-    F350_TIP_ABS: 14.29835
-  response: 7E80562033E327B
+    F350_TIP_ABS: 14.13902
+  response: 7E80562033E31EB
 - expected_values:
-    F350_TIP_ABS: 14.31273
-  response: 7E80562033E3288
+    F350_TIP_ABS: 15.57516
+  response: 7E80562033E36FD
 - expected_values:
-    F350_TIP_ABS: 14.32711
-  response: 7E80562033E3295
+    F350_TIP_ABS: 16.99581
+  response: 7E80562033E3C01
 - expected_values:
-    F350_TIP_ABS: 14.3415
-  response: 7E80562033E32A2
-- expected_values:
-    F350_TIP_ABS: 14.35699
-  response: 7E80562033E32B0
+    F350_TIP_ABS: 27.32098
+  response: 7E80562033E6075

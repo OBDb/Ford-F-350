@@ -4,5 +4,11 @@ test_cases:
     F350_HPFP_V: 0.66471
   response: '7E8056203240088'
 - expected_values:
-    F350_HPFP_V: 0.67449
-  response: 7E805620324008A
+    F350_HPFP_V: 1.261
+  response: '7E8056203240102'
+- expected_values:
+    F350_HPFP_V: 2.42913
+  response: 7E80562032401F1
+- expected_values:
+    F350_HPFP_V: 2.53177
+  response: '7E8056203240206'

@@ -4,8 +4,11 @@ test_cases:
     F350_CAT_TEMP: 125.1
   response: 7E80562F43C0673
 - expected_values:
-    F350_CAT_TEMP: 138.6
-  response: 7E80562F43C06FA
+    F350_CAT_TEMP: 190.9
+  response: 7E80562F43C0905
 - expected_values:
-    F350_CAT_TEMP: 140.3
-  response: 7E80562F43C070B
+    F350_CAT_TEMP: 215.6
+  response: 7E80562F43C09FC
+- expected_values:
+    F350_CAT_TEMP: 301.1
+  response: 7E80562F43C0D53

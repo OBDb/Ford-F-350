@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22051C
 test_cases:
 - expected_values:
-    F350_CHG_AIR_T: 25
-  response: 7E80462051C41
+    F350_CHG_AIR_T: 22
+  response: 7E80462051C3E
 - expected_values:
-    F350_CHG_AIR_T: 26
-  response: 7E80462051C42
+    F350_CHG_AIR_T: 32
+  response: 7E80462051C48
