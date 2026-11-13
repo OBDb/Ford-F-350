@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     F350_AAT_7E0: 10
   response: 7E80462F44632
+- expected_values:
+    F350_AAT_7E0: 15
+  response: 7E80462F44637
+- expected_values:
+    F350_AAT_7E0: 16
+  response: 7E80462F44638

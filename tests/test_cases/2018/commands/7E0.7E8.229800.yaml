@@ -1,11 +1,14 @@
 command_id: 7E0.7E8.229800
 test_cases:
 - expected_values:
-    F350_AC_P_SENS_V: 1.20117
-  response: 7E80562980004CE
+    F350_AC_P_SENS_V: 1.18164
+  response: 7E80562980004BA
 - expected_values:
-    F350_AC_P_SENS_V: 1.48047
-  response: 7E80562980005EC
+    F350_AC_P_SENS_V: 1.24512
+  response: 7E80562980004FB
 - expected_values:
-    F350_AC_P_SENS_V: 1.51953
-  response: '7E8056298000614'
+    F350_AC_P_SENS_V: 1.25098
+  response: '7E8056298000501'
+- expected_values:
+    F350_AC_P_SENS_V: 1.50977
+  response: 7E805629800060A

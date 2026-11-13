@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.22038F
 test_cases:
 - expected_values:
-    F350_ECT: 86.96875
-  response: 7E80562038F15BE
+    F350_ECT: 86.76562
+  response: 7E80562038F15B1
 - expected_values:
-    F350_ECT: 87.0625
-  response: 7E80562038F15C4
+    F350_ECT: 87.96875
+  response: 7E80562038F15FE
 - expected_values:
-    F350_ECT: 87.17188
-  response: 7E80562038F15CB
-- expected_values:
-    F350_ECT: 87.26562
-  response: 7E80562038F15D1
+    F350_ECT: 88.17188
+  response: 7E80562038F160B

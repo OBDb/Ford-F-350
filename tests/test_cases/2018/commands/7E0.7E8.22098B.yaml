@@ -1,32 +1,17 @@
 command_id: 7E0.7E8.22098B
 test_cases:
 - expected_values:
-    F350_CYL_2_FUEL_BALANCE: -0.54784
-  response: 7E80762098BFFFEEE14
+    F350_CYL_2_FUEL_BALANCE: 0
+  response: 7E80762098B00000000
 - expected_values:
-    F350_CYL_2_FUEL_BALANCE: -0.53248
-  response: 7E80762098BFFFEF5C2
+    F350_CYL_2_FUEL_BALANCE: -0.74241
+  response: 7E80762098BFFFE8CCC
 - expected_values:
-    F350_CYL_2_FUEL_BALANCE: -0.49152
-  response: 7E80762098BFFFF0A3D
-- expected_values:
-    F350_CYL_2_FUEL_BALANCE: -0.46592
-  response: 7E80762098BFFFF170A
-- expected_values:
-    F350_CYL_2_FUEL_BALANCE: -0.4608
-  response: 7E80762098BFFFF1999
-- expected_values:
-    F350_CYL_2_FUEL_BALANCE: -0.44545
-  response: 7E80762098BFFFF2147
+    F350_CYL_2_FUEL_BALANCE: -0.49664
+  response: 7E80762098BFFFF07AE
 - expected_values:
     F350_CYL_2_FUEL_BALANCE: -0.43009
   response: 7E80762098BFFFF28F5
 - expected_values:
-    F350_CYL_2_FUEL_BALANCE: -0.42496
-  response: 7E80762098BFFFF2B85
-- expected_values:
-    F350_CYL_2_FUEL_BALANCE: -0.40448
-  response: 7E80762098BFFFF35C2
-- expected_values:
-    F350_CYL_2_FUEL_BALANCE: -0.37377
-  response: 7E80762098BFFFF451E
+    F350_CYL_2_FUEL_BALANCE: -0.00512
+  response: 7E80762098BFFFFFD70

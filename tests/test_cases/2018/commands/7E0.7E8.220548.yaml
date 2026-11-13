@@ -1,23 +1,8 @@
 command_id: 7E0.7E8.220548
 test_cases:
 - expected_values:
-    F350_LPFP_ACT: 61.1348
-  response: 7E805620548034B
+    F350_LPFP_ACT: 59.82943
+  response: '7E8056205480339'
 - expected_values:
-    F350_LPFP_ACT: 61.20732
-  response: 7E805620548034C
-- expected_values:
-    F350_LPFP_ACT: 61.27984
-  response: 7E805620548034D
-- expected_values:
-    F350_LPFP_ACT: 61.35236
-  response: 7E805620548034E
-- expected_values:
-    F350_LPFP_ACT: 61.42488
-  response: 7E805620548034F
-- expected_values:
-    F350_LPFP_ACT: 61.4974
-  response: '7E8056205480350'
-- expected_values:
-    F350_LPFP_ACT: 61.56992
-  response: '7E8056205480351'
+    F350_LPFP_ACT: 73.10069
+  response: 7E80562054803F0

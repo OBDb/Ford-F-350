@@ -1,32 +1,14 @@
 command_id: 7E0.7E8.2204AB
 test_cases:
 - expected_values:
-    F350_CYL_2_FUEL_QTY: 8.62208
-  response: 7E8076204AB0010D70A
+    F350_CYL_2_FUEL_QTY: 0
+  response: 7E8076204AB00000000
 - expected_values:
-    F350_CYL_2_FUEL_QTY: 8.64255
-  response: 7E8076204AB0010E147
+    F350_CYL_2_FUEL_QTY: 10.49599
+  response: 7E8076204AB00147FFF
 - expected_values:
-    F350_CYL_2_FUEL_QTY: 8.94976
-  response: 7E8076204AB00117AE1
+    F350_CYL_2_FUEL_QTY: 28.66176
+  response: 7E8076204AB0037FAE1
 - expected_values:
-    F350_CYL_2_FUEL_QTY: 9.02144
-  response: 7E8076204AB00119EB8
-- expected_values:
-    F350_CYL_2_FUEL_QTY: 9.13408
-  response: 7E8076204AB0011D70A
-- expected_values:
-    F350_CYL_2_FUEL_QTY: 9.15455
-  response: 7E8076204AB0011E147
-- expected_values:
-    F350_CYL_2_FUEL_QTY: 9.2672
-  response: 7E8076204AB00121999
-- expected_values:
-    F350_CYL_2_FUEL_QTY: 11.27423
-  response: 7E8076204AB0016051E
-- expected_values:
-    F350_CYL_2_FUEL_QTY: 11.49952
-  response: 7E8076204AB001675C2
-- expected_values:
-    F350_CYL_2_FUEL_QTY: 11.59167
-  response: 7E8076204AB0016A3D6
+    F350_CYL_2_FUEL_QTY: 64.73727
+  response: 7E8076204AB007E70A3

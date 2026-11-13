@@ -9,3 +9,18 @@ test_cases:
 - expected_values:
     F350_EOT_7DF: 88
   response: 7E80462F45C80
+- expected_values:
+    F350_EOT_7DF: 89
+  response: 7E80462F45C81
+- expected_values:
+    F350_EOT_7DF: 90
+  response: 7E80462F45C82
+- expected_values:
+    F350_EOT_7DF: 91
+  response: 7E80462F45C83
+- expected_values:
+    F350_EOT_7DF: 92
+  response: 7E80462F45C84
+- expected_values:
+    F350_EOT_7DF: 93
+  response: 7E80462F45C85

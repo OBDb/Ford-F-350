@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F40B
 test_cases:
 - expected_values:
-    F350_MAP: 14.21382
-  response: 7E80462F40B62
+    F350_MAP: 13.92374
+  response: 7E80462F40B60
 - expected_values:
-    F350_MAP: 14.35886
-  response: 7E80462F40B63
+    F350_MAP: 20.74057
+  response: 7E80462F40B8F

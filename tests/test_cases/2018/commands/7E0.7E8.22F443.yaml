@@ -1,8 +1,11 @@
 command_id: 7E0.7E8.22F443
 test_cases:
 - expected_values:
-    F350_ENG_LOAD_ACT: 73.33333
-  response: 7E80562F44300BB
+    F350_ENG_LOAD_ACT: 71.37255
+  response: 7E80562F44300B6
 - expected_values:
-    F350_ENG_LOAD_ACT: 73.72549
-  response: 7E80562F44300BC
+    F350_ENG_LOAD_ACT: 100
+  response: 7E80562F44300FF
+- expected_values:
+    F350_ENG_LOAD_ACT: 101.56863
+  response: 7E80562F4430103

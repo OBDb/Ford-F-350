@@ -3,3 +3,30 @@ test_cases:
 - expected_values:
     F350_LPFP_DUTY: 31.86646
   response: 7E80562030728CA
+- expected_values:
+    F350_LPFP_DUTY: 31.9458
+  response: 7E80562030728E4
+- expected_values:
+    F350_LPFP_DUTY: 32.72705
+  response: 7E80562030729E4
+- expected_values:
+    F350_LPFP_DUTY: 34.38721
+  response: 7E8056203072C04
+- expected_values:
+    F350_LPFP_DUTY: 35.78796
+  response: 7E8056203072DCF
+- expected_values:
+    F350_LPFP_DUTY: 36.99646
+  response: 7E8056203072F5B
+- expected_values:
+    F350_LPFP_DUTY: 42.80701
+  response: 7E80562030736CB
+- expected_values:
+    F350_LPFP_DUTY: 43.12744
+  response: '7E8056203073734'
+- expected_values:
+    F350_LPFP_DUTY: 43.55774
+  response: 7E80562030737C1
+- expected_values:
+    F350_LPFP_DUTY: 47.99805
+  response: 7E8056203073D70

@@ -9,3 +9,18 @@ test_cases:
 - expected_values:
     F350_FUEL_T: 27
   response: '7E80462052243'
+- expected_values:
+    F350_FUEL_T: 29
+  response: '7E80462052245'
+- expected_values:
+    F350_FUEL_T: 30
+  response: '7E80462052246'
+- expected_values:
+    F350_FUEL_T: 31
+  response: '7E80462052247'
+- expected_values:
+    F350_FUEL_T: 32
+  response: '7E80462052248'
+- expected_values:
+    F350_FUEL_T: 33
+  response: '7E80462052249'

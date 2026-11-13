@@ -1,5 +1,17 @@
 command_id: 7E0.7E8.220304
 test_cases:
 - expected_values:
+    F350_CMD_GEN_V: 14.5912
+  response: 7E80562030474CC
+- expected_values:
+    F350_CMD_GEN_V: 14.61121
+  response: 7E80562030474F5
+- expected_values:
+    F350_CMD_GEN_V: 14.63122
+  response: 7E805620304751E
+- expected_values:
+    F350_CMD_GEN_V: 14.65122
+  response: '7E8056203047547'
+- expected_values:
     F350_CMD_GEN_V: 14.69124
   response: '7E8056203047599'

@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     F350_TRANS_ODO: 130482
   response: 7E90662DD0101FDB2
+- expected_values:
+    F350_TRANS_ODO: 130530
+  response: 7E90662DD0101FDE2

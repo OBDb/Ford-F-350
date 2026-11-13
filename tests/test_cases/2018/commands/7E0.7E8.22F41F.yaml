@@ -1,11 +1,14 @@
 command_id: 7E0.7E8.22F41F
 test_cases:
 - expected_values:
-    F350_RUN_TIME: 2391
-  response: 7E80562F41F0957
+    F350_RUN_TIME: 1806
+  response: 7E80562F41F070E
 - expected_values:
-    F350_RUN_TIME: 2539
-  response: 7E80562F41F09EB
+    F350_RUN_TIME: 2047
+  response: 7E80562F41F07FF
 - expected_values:
     F350_RUN_TIME: 2569
   response: 7E80562F41F0A09
+- expected_values:
+    F350_RUN_TIME: 3103
+  response: 7E80562F41F0C1F
