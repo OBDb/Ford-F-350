@@ -7,8 +7,8 @@ test_cases:
     F350_DTE: 486.4
   response: '7E8056241941300'
 - expected_values:
-    F350_DTE: 639.9
-  response: 7E80562419418FF
+    F350_DTE: 537.5
+  response: 7E80562419414FF
 - expected_values:
     F350_DTE: 974.6
   response: '7E8056241942612'
